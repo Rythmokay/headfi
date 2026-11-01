@@ -1,0 +1,70 @@
+{
+  "title": "Dx340 Guides (optimization, battery replacements, DIY) discussions",
+  "forum": "portable-source-gear.15",
+  "author": "Whitigir",
+  "replies": "2K",
+  "views": "144K",
+  "url": "https://www.head-fi.org/threads/dx340-guides-optimization-battery-replacements-diy-discussions.975654/unread",
+  "comments": [
+    {
+      "post_index": 1,
+      "author": "Whitigir",
+      "date": "",
+      "content": "For battery packs, you can place order from the authorized dealer from where you bought it, or you can also email \n@Paul - iBasso\n and directly inquired.\n\nFollowing is the Link for PDF files\n340 Batteries replacement guide\n\nAlso honorably inviting \n@******\n and \n@tekChansin\n for posting all your IMG, ADB, firmware mods and rooting, optimization guides over here with us\nAnantar Ultimate OS mod for Dx340\nhttps://www.head-fi.org/threads/dx3...acements-diy-discussions.975654/post-19029789"
+    },
+    {
+      "post_index": 2,
+      "author": "Member",
+      "date": "",
+      "content": "This is the link to Texted post from other thread\nLink 340 battery replacement"
+    },
+    {
+      "post_index": 3,
+      "author": "Member",
+      "date": "",
+      "content": "Since dx340 can be enabled with Desktop mode!  It essentially has the amplifier to run off from stock DAP standard voltage of +/-8V.  The Desktop mode will allow running +/-12V and the improved performances can be observed.\n\nThe stock 12V adapter is provided with the player and in the box.  It is not a charger by any means.  You can only charge with USB C.\n\nThe socket for the plug sizes is 3.5mm x 1.35mm DC barrel plug.  The inner polarity is Positive and outside is negative\n\nLinear Power Supply is recommended, and as far as with different builts, slight differences in audio performances will be observable.  Whatever yoy are using, just make sure that Voltage is 12V within 10% variations.  The minimum Amperage is 1.5A.  There is no need to worry about over Amperage, because the player can only and will only draw as much current as needed.  For example, using a 100W LPSU with 12V output is fine\n\nThe one I personally recommend if sky is the limit, would be customized Sigma 11 with all the audiophile grades components as possible!\n\nThe cheapest is Fiio 12V LPSU\n\nThen there are oceans of other units on the market\n\nLHY 12VDC is the best fit right now for my use cases.  There are others but I have not gone through and testing them.\nhttps://www.head-fi.org/threads/dx3...acements-diy-discussions.975654/post-18803891"
+    },
+    {
+      "post_index": 4,
+      "author": "Member",
+      "date": "",
+      "content": "Thank you for creating this thread. I will add my Root and optimization guides for DX340 here in due time."
+    },
+    {
+      "post_index": 5,
+      "author": "Member",
+      "date": "",
+      "content": "Here\n you will find my (just updated) take on optimizing and minimal debloating (via \"adb shell\" command). These - and some other low-level optimizations - will eventually merge into Matt's optimization & rooting guides."
+    },
+    {
+      "post_index": 6,
+      "author": "Member",
+      "date": "",
+      "content": "Delete"
+    },
+    {
+      "post_index": 7,
+      "author": "Member",
+      "date": "",
+      "content": "Delete"
+    },
+    {
+      "post_index": 8,
+      "author": "Member",
+      "date": "",
+      "content": "Guides are back and updated."
+    },
+    {
+      "post_index": 9,
+      "author": "Member",
+      "date": "",
+      "content": "Here are all the changes that all of us here want iBasso to consider implementing on the DX340 as well as any bugs found. Please PM me any changes you want to see and any bugs that you are having so I can put right in this post so I can direct Paul to it. \n@Paul - iBasso\n\nChanges Desired:\n\n1. Bring back separate amp and digital battery indicators or a setting that allows one to choose to see both and leave off by default - seeing lowest battery \n\n2. Create/have icon that shows DAP is being run using battery bypass mode\n\n3. Revise leather case so top part is covered except for access to charger and CoAx ports\n\n4. Make and include and rubber like case like you do for DX180 and DX260 so we have choice of cases.\n\n5. A DREAM allow Super Gain/2 watts to be run off battery mode only - yes will kill the amp battery fast\n\n6. Provide screw driver needed to remove AMP card in box/Switch to small Phillip's screws\n\n7. Add Hold button like Sony has\n\n8. Make side buttons harder to press (yes they can be turned off etc but people like to use them)\n\n9. Make MangoPlayer remember where you left off in a track - Neutron does that even after restarting/powering off.\n\n10. Volume indicator show up when screen is off which would turn screen on when volume is changed\n\n11. Icon needs to change from H2 to SG when super gain is in use. \n\nBugs:\n\n1. Play stops for a split second if you unplug DC12V in - Old FW did not have that issue\n\n2. I also want to add that from time to time there is a static noise in the left channel, continuous or intermittent. I can hear it clearly with IEM, not with full-size headphones. After a few dozen seconds it disappears. This happens in player or USB DAC mode, powered or not, WiFi is off.  This noise also appears e.g. in Tidal offline mode, it happens most often after a long break in playback.\n\n3. Slight very short pause when using USB DAC mode\n\n4. Sometimes in battery saver mode (80%) charging in USB DAC mode still continues to 100%.\n\n5. Charging stops at a certain point and will not continue unless DAP is powered off \n@******\n issue could be FW load issue\n\n6. In Mango, some tracks end abruptly close to but before the end of the actual track. This is most common on the last track of an album."
+    },
+    {
+      "post_index": 10,
+      "author": "Member",
+      "date": "",
+      "content": "****** said:\n\n\t\t\tHere are all the changes that all of us here want iBasso to consider implementing on the DX340 as well as any bugs found. Please PM me any changes you want to see and any bugs that you are having so I can put right in this post so I can direct Paul to it. \n@Paul - iBasso\n\nChanges Desired:\n\n1. Bring back separate amp and digital battery indicators\n\n2. Create/have icon that shows DAP is being run using battery bypass mode\n\n3. Revise leather case so top part is covered except for access to charger and CoAx ports\n\n4. Make and include and rubber like case like you do for DX180 and DX260 so we have choice of cases.\n\n5. A DREAM allow Super Gain/2 watts to be run off battery mode only - yes will kill the amp battery fast\n\n6. Provide screw driver needed to remove AMP card in box\n\nBugs:\n\t\t\nClick to expand...\nBeing Devil's advocate here but,,,\n\n#1 Being used to the dx300, I first thought that only one battery indicater was a retrograde step. However, now I'm used to it, I don't really care. The indicator must show the most depleted battery and therefore when we  need to re-charge. At that point, the state of the other battery Is pretty irrelevent, it's going to get re-charged anyway.\n\n#2 Why do we need another indicator. When the battery shows 100%, it must be  running in battery by-pass mode. No?\n\n#5 Don't see how that's possible unless you plug in a 12v Power Bank."
+    }
+  ]
+}

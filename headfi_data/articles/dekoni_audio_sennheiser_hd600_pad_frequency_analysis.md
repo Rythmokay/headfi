@@ -1,0 +1,92 @@
+# Dekoni Audio Sennheiser HD600 Pad Frequency Analysis
+
+- **Category**: 
+- **Author**: DekoniAudio
+- **Date**: Feb 22, 2018
+- **URL**: [https://www.head-fi.org/articles/dekoni-audio-sennheiser-hd600-pad-frequency-analysis.19695/](https://www.head-fi.org/articles/dekoni-audio-sennheiser-hd600-pad-frequency-analysis.19695/)
+
+![Thumbnail](../images/art_dekoni_audio_sennheiser_hd600_pad_frequency_analysis_thumb_45407.jpg)
+
+## Article Content
+
+Ok, here it is.  The long-awaited Frequency Comparison charts for the Dekoni Audio HD600 Ear pads.  Careful analysis and hours of listening go into our ear pads and we stand by our models as the best of the best as far as replacement ear pads go.  I’m going to just jump right into it.
+
+I will say, before I continue, that you should always give new pads a few days of listening to get used to them before issuing any judgements for or against.  A pad swap is probably the quickest and most effectual mod you can do to a set of headphones so the difference you hear may be very different from the pads you previously had on the headphones.   That said, sometimes one may equate sounding “different” with sounding “worse” because it’s not the same (which they grew to like and love).  Given a chance though you may find the new pads, once you adjust, actually make a change for the better that you didn’t think was coming.  So always give pads a chance.  You Just might find they’re better than the ones you had and that’s what we do this for.
+
+Also, note that because the Headphones are open back the sound will not change as much as they might with, say, a closed back set as you aren’t changing the inside pressure levels or air flow nearly as much.  You will see that the graphs on the 4 variants are very similar with a few minor differences.  No change is greater than 2-3db between any of the frequencies so everything is fairly subtle.  Nothing drastic happening.
+
+First up is the most popular pad in the line-up.  The HD600 Fenestrated Sheepskin. You will see from the image below there is a fairly equal lifting of the frequency range from the bottom to about 2,000 cycles.   This is representative of the change from a rounded pad to a Squared off one where the inner wall of the pad acts more as a funnel in rather than a diffusor as a rounded pad might.  You will notice this in all the variants and they are all very similar in their response.  The lower frequencies have nowhere to go but inside your ear.  You’ll notice a slight dip then between 2K and 5K on the Fenestrated pad with the frequency response remaining almost identical up to 20K with a slight bump on stock above 15K.  All of this goes to the Dekoni pad, to my ears, sounding a little warmer.  I have felt the HD600 to be missing a little “meat’ in the mid-range and our pads seem to bring it in just enough.  
+
+Next up is the Dekoni Sheepskin Edition.  You’ll notice it looks very similar to the Fenestrated all the way up to about 12.5K where there is a significant amount of the high frequency material that is maintained, instead of lost to the stock Velour pads.  To my ears, this pad cuts the frequencies in the “conchal bowl” enough that they sound more neutral in this configuration.  Instead of seeing a boost in the low and boost in the high, picture if you increased the amplitude of the Sheepskin pad graph and it would invert to a slight dip between 3K and 10K, where our ears are most sensitive.  This is due, again, to the sheepskin surface directing all the frequency material from the speakers into your ears instead of the loss you experience into the pads.
+
+The Hybrid pad is very similar to the others in the sub 2K range but above that it is almost an exact frequency match with the Stock pads.  These sound a little louder than stock (less material loss) with a slight screen on the high end which seems to even out the tone of the headphones.
+
+Now, on to the Elite Velour model which matches very similarly to the Fenestrated Sheepskin as well with not quite as much of a rise above the 2K Range but some is still present.  These pads are extremely comfortable and seem to maintain a lot of the Primary characteristics of the HD600.
+
+That Folks, is one opinion of many but it is mine and I’ll stand by it!  Thanks for reading an I hope that we have made a pad for the HD600 that people will see as an upgrade and an update to the stock pads.  If you want to discuss further please feel free to reach out to me personally at the email here.
+
+Tal Kocen
+
+Owner, Dekoni Audio
+tal@dekoniaudio.com
+
+## Article Images & Charts
+
+![Illustration](../images/art_dekoni_audio_sennheiser_hd600_pad_frequency_analysis_img_7_82987.gif)
+
+## User Comments & Discussion
+
+### Comment #1 by  ()
+
+> Mighty helpful, thanks for the analyse and really great pads.
+
+Grabbed the Elite Hybrids for my HD600's and haven't regretted it!
+
+I have the HD650's inbound and will probably grab another set of pads soon!
+
+### Comment #2 by  ()
+
+> This is perfect. my pads are at the point of needing new ones
+
+### Comment #3 by  ()
+
+> volly said:
+
+			Mighty helpful, thanks for the analyse and really great pads.
+
+Grabbed the Elite Hybrids for my HD600's and haven't regretted it!
+
+I have the HD650's inbound and will probably grab another set of pads soon!
+		
+Click to expand...
+Glad the pads suit you... awesome album in your avatar, btw!
+
+### Comment #4 by  ()
+
+> ...
+
+### Comment #5 by  ()
+
+> I will buy a normal velour one!
+
+### Comment #6 by  ()
+
+> Thanks a lot. I was planning to change the pads. But was unsure of how the sound will change.
+
+### Comment #7 by  ()
+
+> I like the sheepskin increased highs....I'm in
+
+### Comment #8 by  ()
+
+> What gears been used to measure the FR?
+
+### Comment #9 by  ()
+
+> Samk15 said:
+
+			What gears been used to measure the FR?
+		
+Click to expand...
+This measurement was done with an older rig, we’re redoing these measurements in an ongoing process to give you something of higher fidelity!
+

@@ -1,0 +1,233 @@
+# Kiwi Ears Coda Mini Dual-Output USB-C DAC & Amp Dongle
+
+- **Category**: portable-amps.270
+- **Overall Rating**: 4.00 star(s)
+- **Product URL**: [https://www.head-fi.org/showcase/kiwi-ears-coda-mini-dual-output-usb-c-dac-amp-dongle.29492/](https://www.head-fi.org/showcase/kiwi-ears-coda-mini-dual-output-usb-c-dac-amp-dongle.29492/)
+
+![Product Image](../images/rev_kiwi_ears_coda_mini_dual_output_usb_c_dac_amp_dongle_thumb_742487.png)
+
+## Reviews & Audio Impressions
+
+### Review #1 by  (Rating: 4.50 star(s))
+
+Let's get started
+.
+Kiwi Ears Coda
+ - Firstly, I'd like to thank Ribbon, Lillian, James, and 
+Linsoul
+ for the opportunity to review the Coda. While I've got quite a few dongle dacs, I only have two inline dongle dac (Canpur Green USB Custom and UGreen CM46), so I wasn't really expecting the Coda, nor was I expecting much. Well, surprise, surprise, surprise! The Coda trades blows with almost every dongle dac I own that's under $50.00. What stood out was the sheer dynamism and staging, but that's getting ahead of the game, so let's explore just how well the Coda performed in ISO, as well as against those two dongle dacs mentioned earlier. So buckle your seatbelts and prepare for a 100% unbiased impression with heartfelt observations and thoughts. Now on to the FUN stuff!
+Accessories
+ - Ok, the coda came in a teeny tiny box, with branding, a picture, website url, contact info and specs. Inside, you got the dongle dac in foam, and that's it, folks! That's a wrap on the unboxing! So with that out of the way, let's move on to what most of you are here for...the sound impressions!! But first, let's look over the published specs, then we get down to the nitty gritty.
+Specs
+ -
+Connection method: USB Type-C (direct plug-in)
+Output terminals: 3.5mm single-ended / 4.4mm balanced (dual output)
+Output power: 30mW @ 32Ω
+Noise floor: 2μV
+SNR: > 114dB
+THD+N: < 0.003%
+Crosstalk: Less than -65dB at 3.5mm output / Less than -100dB at 4.4mm output (at 32Ω)
+PCM support: 44.1kHz to 384kHz / 32bit
+Construction: All-aluminum alloy body
+Compatibility: Windows, macOS, Android 5.1+, and compatible iOS
+PRICE : $29.99
+
+Available for purchase at 
+this location. 
+(non-affiliate link)
+Sources & Test Music 
+-
+
+Hiby R3 II (2023), Onix XM2 Tocata, FiiO JM21 + iphone 12 Pro (not pictured)
+
+So with the Kiwi Ears Coda, I chose to focus on 4 sources. This includes my favorite synergy rig, which is the Hiby R3 II (2023). While I really enjoy the native sonics of the R3 II DAC, and it's got 380mW of power in 4.4mm, so plenty of giddy up for most IEMs. The thing is, and this is something I'll discuss soon, there's some mystical magical voodoo mojo happening with the Coda, where despite only kicking out 30mW of power, it sounds so dimensional, dynamic, and musical thru the R3 II, that I almost prefer using the R3 II as a host to the Coda, than listen to it untethered. I also used the XM2 Tocaa extensively, as well as the JM21, as both are very convenient hosts. Finally, I used my iphone 12 Pro, and the synergy was excellent, and made my phone sound like a audiophile DAP. Very few dongles provide this level of sonic perspective.
+
+IEM's used : Ice Lab Lumira, Dunu Subsurge, KZ Sheen, Unique Melody MEST Fortune, Craft Ears Leszy, Flipears Aisha Electri, ISN H60, Unique Melody Maven III, GK Kunten Pro, Kiwi Ears Aether, Kiwi Ears Septet, Hercules Noah, Roseselsa CJ20.
+
+Alfa Mist - Roulette
+
+The Afro-Caribbean Jazz Collective - Cortadito
+
+Ezra Collective - Dance, No One is Watching
+
+Matt Mitchell - Zealous Angels
+
+Arooj Aftab - Night Reign
+
+Dinosaur - To The Earth
+
+Robohands - Green
+
+Tuva Halse - Reconnection
+
+Elliot Gavin - Modern Times
+
+Tomas Fujiwara - Pith
+
+Tomasz Stanko Quartet - Soul Of Things
+
+Bob Marley & the Wailers - Natty Dread
+
+Reggae Gold vol 1 & Vol 2
+
+Blackbraid - III
+
+Karkosa - Esoterrorcult
+
+Abysmal Dawn - Phylogenesis
+
+Imha Tarikat - Confessing Darkness
+
+Alghol - The Ossuary Key
+
+Vale Of Pnath - Between The Worlds Of Life And Death
+
+Various shuffled classic rock, alt rock, hip hop, and pop music playlist
+Sound Characteristics
+ - The Kiwi Ears Coda is small of stature, but don't let that well built but diminutive aluminum-alloy chassis fool you, because this little dongle DAC has some serious voodoo magic going on. With a neutral tonal foundation, a slight low-end lift, and a clean, clear, dynamic presentation, the Coda delivers an expansive, dimensional soundstage that seems downright baffling for a device rated at just over 30mW per channel at 32Ω. How the engineers managed this is a mystery to me! There's a forward fullness to the presentation that gives instruments body and presence, while crisp, incisive treble keeps leading edges sharp and energetic and musical without any stridency or analytical dryness . Metal is BOSS, with Karkosa's 
+Esoterrorcult
+, Abysmal Dawn's 
+Phylogenesis
+, and Imha Tarikat's 
+Confessing Darkness
+ having standout delivery from the Coda's separation, transient attack, and ability to keep dense, aggressive arrangements from collapsing into a wall of smear or fuzz.
+
+Jazz is equally rewarding, whether it's the instrumental interplay of Dinosaur's 
+To The Earth
+, the textured and funky grooves of Robohands' 
+Green
+, or the spacious, expressive mix of Tuva Halse's 
+Reconnection, 
+the Coda delivers musical dynamism that's top notch, and for $30.00, that's darn near THEFT
+.
+ Reggae gets its due, too, with Bob Marley and Sean Paul riding that clean, punchy, rhythmically engaging delivery like a BOSS, while hip-hop, R&B, funk, and acid jazz all come through with the sort of dynamic, energetic bounce and clarity that makes you forget you're listening to a tiny USB-C dongle. you really do end up thinking you got a $400 DAP orchestrating the music. Despite the modest power rating, the Coda played louder and with more energy and headroom than I expected, even with planar IEMs and some harder-to-drive hybrids. The Kiwi Ears Septet needed to be pushed harder, as did the Hercules Noah, but most of the IEMs I threw at it were handled without much fuss.
+
+I didn't use the Coda's five-band EQ or its preset profiles, preferring to hear its stock presentation, but having web-based EQ and sound-shaping options available adds a welcome layer of versatility for those who like to tailor their sound. The published specifications sound impressive, but how those specs translate into such a dynamo sound is truly what's impressive. Those figures don't explain the Coda's expansive staging or its uncanny combination of forward fullness, dimensionality, and dynamic punch? That's got to be where the voodoo comes in? For a compact, affordable dongle, the Coda is clean, crisp, versatile, and far more sonically ambitious than its size or power rating suggests, and it's a tiny DAC that stomps well above its weight class.
+Dynamics : 4.5
+
+Resolution : 4
+
+Crispness : 4
+
+Air : 4.5
+
+Details : 4
+
+Technicalities : 4
+
+Instrument Separation : 4.5
+
+Layering : 4
+
+Imaging : 4
+
+Tonality/Timbre : 5
+
+Low End Impact/Mid Bass : 4
+
+Low End Rumble/Sub Bass : 4
+
+Note Weight : 5
+
+Note Resolution Midrange : 4
+
+Note Resolution Bass : 4.5
+
+Midrange incisiveness : 4
+
+Bass elasticity/nimbleness : 4.5
+
+Sibilance Presence : 1 (low, weighted at 5)
+
+Soundstage/Dimensionality/Orbital : 5
+
+Versatility : 4.5
+
+Overall score : 4.5/5
+
+Comparison
+ -
+UGreen CM46, Canpur Green USB Custom, NiceHCK Pureaural
+ vs Shozy P20
+
+In this comparison of donglemania, and specifically inline dongles, as well as one rat-tail thrown in (the PureAural was my favorite dongle under $50.00 before the Coda), the Kiwi Ears Coda takes the crown for expansive staging, dimensionality, detail retrieval, and overall technical ability, with superior bass resolution, midrange richness, tonal weight, separation, midrange clarity and forwardness, and treble extension and air. Its only real concession is in low-end impact and visceral punch, where the UGreen CM46 delivers a more physical, hard-hitting and fuller note presentation. For a simple, $9.00 L-shaped dongle, the UGreen CM46 is a dynamo, with some of the largest staging and hard hitting bass you will find in a tiny dongle, but falls behind in technical ability and clarity. The NiceHCK PureAural offers greater versatility through its sound-shaping features, along with smoother, more mature note edge texture and the most even-keeled, less airy treble response of the bunch, but the Coda is the more technically accomplished performer. The Canpur Green USB-C custom adapter puts up a valiant effort for a throw-in dongle, but ultimately falls behind the other three. Overall: Coda = PureAural > UGreen CM46 > Canpur Green USB-C Custom.
+Conclusion
+ -
+
+The Kiwi Ears Coda is the tiny dynamo with the simple but elegant chassis, with a sound that has absolutely no business being this expansive, dimensional, and technically accomplished for just over 30mW per channel. Its forward fullness, resolute low end, rich midrange, and crisp, airy, extended treble make everything from extreme metal to jazz, reggae, and funk sound downright BOSS, with a dynamic swagger that occasionally has me wondering if a $400 DAP hijacked the proceedings? At $30, this little dongle is burglary for the amount of performance it delivers! Sure, some sets like the Septet and Hercules Noah demand more juice, and you wouldn't plug in the HiFiMan Susvara or the RAAL Immanis into this thingie, but the Coda handles most IEMs with surprising headroom and an energetic, unconstrained presentation, with rich dynamics. Add five-band EQ and preset sound shaping to the equation, and you've got versatility to complement an already impressive stock tuning. I still can't explain how Kiwi Ears pulled this off, but when a dongle this small throws a soundstage this big, delivers this level of separation, and hits this hard, I'm calling it 
+voodoo magic
+, and this dinky DAC with Kaiju-sized performance that stomps well above its weight class, is mystifyingly GOOD.
+RECOMMENDATION LEVEL
+ : DYNAMIC STAGE MONSTER DONGLE BOSS LEVEL — HIGH 9/10
+
+Thank you so much for reading and remember to be water with your audio luv! When you do...
+AUDITORY ZEN UNLOCKED!
+
+#### Review Photos
+
+![Gear Photo](../images/rev_kiwi_ears_coda_mini_dual_output_usb_c_dac_amp_dongle_photo_657782.jpg)
+
+![Gear Photo](../images/rev_kiwi_ears_coda_mini_dual_output_usb_c_dac_amp_dongle_photo_649413.jpg)
+
+![Gear Photo](../images/rev_kiwi_ears_coda_mini_dual_output_usb_c_dac_amp_dongle_photo_215153.jpg)
+
+![Gear Photo](../images/rev_kiwi_ears_coda_mini_dual_output_usb_c_dac_amp_dongle_photo_362811.jpg)
+
+![Gear Photo](../images/rev_kiwi_ears_coda_mini_dual_output_usb_c_dac_amp_dongle_photo_239415.jpg)
+
+![Gear Photo](../images/rev_kiwi_ears_coda_mini_dual_output_usb_c_dac_amp_dongle_photo_118141.jpg)
+
+### Review #2 by  (Rating: 4.00 star(s))
+
+Hi everyone, I’m back with a review of Kiwi Ears Allegro Mini and Kiwi Ears Coda Dongle DAC. I received this IEM from Nicole, who kindly provided it for review purposes. Thank you to Nicole and the Kiwi Ears team.
+
+These impressions are based on my preference for a V-shaped bright sound signature. Please don't use these impressions as a reference, as every ear is different and I'm only sharing my personal experience. Always trust your own ears and audition if possible. If you find any mistakes, feel free to comment.
+
+Actually, the Kiwi Ears Allegro Mini has been on the market for quite a while since late 2024. However, the Allegro Mini can now be EQ-ed via a PC browser, as can the new Kiwi Ears Coda, which was just released last month. The Coda has a slightly more compact form compared to the Allegro Mini, with the 3.5mm jack port located at the bottom rather than on the left side like the Mini, which I find more comfortable to reach. Unfortunately, the 4.4mm port is still placed on the right side. As we know, there are almost no L-shaped jacks for 4.4mm on the market, making this placement quite awkward if we use it on a portable device like a smartphone.
+
+The name Coda itself, if we refer to musical terminology, means the outro or ending of a musical composition, CMIIW. The specifications for the Kiwi Ears Coda are as follows:
+Connection method: USB Type-C (direct plug-in)
+Output terminals: 3.5mm single-ended / 4.4mm balanced (dual output)
+Output power: 30mW @ 32Ω
+Noise floor: 2μV
+SNR: > 114dB
+THD+N: < 0.003%
+Crosstalk: Less than -65dB at 3.5mm output / Less than -100dB at 4.4mm output (at 32Ω)
+PCM support: 44.1kHz to 384kHz / 32bit
+Construction: All-aluminum alloy body
+Compatibility: Windows, macOS, Android 5.1+, and compatible iOS
+As for what might differentiate it from the Kiwi Ears Allegro Mini, it might be the specs below, although it remains ambiguous whether it is actually different or not, because these specs still fall within the Kiwi Ears Coda specifications:
+Noise Floor: < 3μV
+THD+N: < 0.004%
+Regarding the included accessories, it is completely minimal, you only get the dongle DAC along with the product information paper.
+
+As for the pricing, the Kiwi Ears Allegro Mini is currently priced at around 21 bucks, while the Kiwi Ears Coda is around 29 bucks.
+User Experience​
+Both of these devices share the same material, which is a fairly solid aluminum alloy. So far, the only very significant difference in my opinion lies solely in their physical appearance. The Kiwi Ears Coda feels bulkier, but in reality, it is actually more compact, whereas the Allegro Mini seems slimmer in photos, but in reality, it is actually wider. As far as my usage goes with these two items, both are equally reliable as dongle DACs. My only complaint regarding its physical design is the lack of independent volume control on the dongle DAC itself.
+
+During my usage so far, I haven't experienced any serious issues, all devices that support UAC 2.0 can be operated with both of these DACs. For usage with my IEMs, I typically use them at a volume range of 15-20/100 on an Android device and 4-6/100 on Windows. Meanwhile, for headphones on Android, I tried the Simgot EP5 at 40/100 volume, and on Windows at 30/100 volume.
+
+The power is indeed limited to only 30mW, which, if used with low-sensitivity cans, will make the dynamic impact of the sound feel weak. However, if it is only used for casual listening and paired with normal IEMs on the market, I think it is more than enough. Moreover, this low output power also has a positive impact, resulting in quite low battery consumption.
+
+Tonally, I feel both of these dongle DACs have an identical sound leaning towards neutral with a slight touch of thin brightness. Technically, in terms of resolution and detail, they are quite good and transparent. Furthermore, there is absolutely no noticeable hiss, it only occurs when first plugged into the host device, and even then, the hiss disappears after just 3-5 seconds. Overall, when playing tracks, it feels dead silent.
+
+The most noticeable advantage, in my opinion, lies simply in the provided form factor, which does not require a cable, making it more practical to use. Additionally, the dual 3.5mm and 4.4mm ports make it quite flexible to use across various devices. The operating temperature is also quite stable, there is only a slight increase in temperature that doesn't even get to the point of feeling warm, and this is quite reasonable given the naturally small output power.
+
+One unique thing present in all T-shaped Kiwi Ears dongle DACs is that all ports can be active simultaneously. So, when we try pairing both ports with two headphones, both will produce sound. Whether this is safe or not, I don't know, but I've tried it and so far there have been no issues.
+Conclusion​
+As entry level T-shaped dongle DACs, I feel the price of 21 bucks is very affordable and highly worth buying for the Kiwi Ears Allegro Mini. However, if you need a more practical form factor and want the 3.5mm SE port in a more normal position, you can dig a little deeper into your pockets for about 29 bucks for the Kiwi Ears Coda. I think it is still quite worth its price, although in terms of pure value, the Kiwi Ears Allegro Mini is better. So far, I feel they only differ in shape, but in terms of function and purpose, both are quite identical, at least to my ears. That's all, fellas. Thank you for reading. Cheers.
+
+#### Review Photos
+
+![Gear Photo](../images/rev_kiwi_ears_coda_mini_dual_output_usb_c_dac_amp_dongle_photo_34297.jpg)
+
+![Gear Photo](../images/rev_kiwi_ears_coda_mini_dual_output_usb_c_dac_amp_dongle_photo_533822.jpg)
+
+![Gear Photo](../images/rev_kiwi_ears_coda_mini_dual_output_usb_c_dac_amp_dongle_photo_716969.png)
+
+![Gear Photo](../images/rev_kiwi_ears_coda_mini_dual_output_usb_c_dac_amp_dongle_photo_45255.png)
+
+![Gear Photo](../images/rev_kiwi_ears_coda_mini_dual_output_usb_c_dac_amp_dongle_photo_764508.jpg)
+
+![Gear Photo](../images/rev_kiwi_ears_coda_mini_dual_output_usb_c_dac_amp_dongle_photo_653255.jpg)
+

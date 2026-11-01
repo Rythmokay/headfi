@@ -1,0 +1,70 @@
+{
+  "title": "Dan Clark Audio AEON CORE: The Engineering, The Measurements, The Interview",
+  "forum": "headphones-full-size.4",
+  "author": "Member",
+  "replies": "398",
+  "views": "41K",
+  "url": "https://www.head-fi.org/threads/dan-clark-audio-aeon-core-the-engineering-the-measurements-the-interview.980511/unread",
+  "comments": [
+    {
+      "post_index": 1,
+      "author": "Member",
+      "date": "",
+      "content": "​\n\nDan Clark Audio has been developing the AEON CORE for years -- and the result is a closed-back headphone that delivers surprisingly high performance at an incredibly accessible price. Though affordable, the AEON CORE was engineered to go toe-to-toe with modern flagships (including DCA's own lineup).\n\nIn this video, we sit down with Dan Clark himself to discuss the engineering behind this new release. We also dive into the measurements and explore how his published research with Sean Olive shaped the tuning of the AEON CORE.\nDan Clark Audio AEON CORE: The Engineering, The Measurements, The Interview\n - Produced by Brian Murphy and Jude Mansilla\n​"
+    },
+    {
+      "post_index": 2,
+      "author": "Member",
+      "date": "",
+      "content": "We're really pleased to introduce AEON CORE. With AEON CORE, we really strove to deliver an unprecedented level of performance to the sub-$1K category, and when you hear it I hope you'll agree we delivered!\n\nAEON CORE delivers:\n\n-A balanced and lively listening experience, with a tonality derived from the Harman target developed in the AES paper Sean Olive and I published last fall. More on the \"why/what\" is in the video. More on what it means below...\n\n-A new driver designed to work with lower power electronics. We recommend 125mW or more at 16 ohms, though in practice it can be even lower, unless you like it pretty loud. The Fosi D2 drives it way louder than I would listen\n\n-A brand new design aesthetic, with a lustrous anodized aluminum accented with a dark gray wood finish\n\nHow does it sound? While you can't truly judge a headphone by its measurements, you can glean very useful information that gives subjective impressions relevance. So I'll start with the subjective then dive into the technicalities to explain the choices.\n\nFirst, I have to say I just love this headphone. Vocals and strings really shine on it, there's a body to the midrange that is both accurate and really seductive. Listening to a complex voice like Lucinda Chua on Autumn Leaves Don't Fall can easily sound congested and cluttered with midrange tuning errors. Happily the vocal and string arrangements stand in clear relief; vocals body and breath handily, while the strings layer above and around the vocals with a natural tone and excellent clarity. Through the layered tracks you capture both a clear sense of volume for the chest and a nice balance of overtones that is revealing but not glassy or hard. The vocals lay over a bass floor where the strings feel articulate, layered, and tonally balanced. The instrumental piece Meditiations on a Place presents every note clearly, with a deeply layered presentation that allows each instrument track to shine clearly.\n\nTo achieve this balance we tuned closer to the KB5000_7 target, but we also did some tuning on the 5128 using 1:1 mapping targets built through direct tests using the original Welti ears. The latter is quite important, as we found that on the 5128 target curves built for an individual headphone tested as very close to the original Welti target (sorry if this is technical, I'm trying to write a long book here...). So we can construct a target for the 5128 with a reasonable confidence it is actually representative of the original Harman Welti target, but we can only do this because we have the original Welti ears. \n\nIt's important to note that the KB5000_7 target changes are not huge, but taken together they change the experience to a degree reading the graph wouldn't communicate. So when you look at the following graph, notice several things:\n\n1) the bass bump you often see in our designs from 100-225Hz is essentially gone, so the bass has a bit lighter feel to it, though it still hits deep. \n\n2) There's a rise from about 600-1.2K on the GRAS, followed by a dip in the response from 1.2-2.5k, which gives mids a warmer tone. I'll comment a bit more on this in the 5128 description. Note that from 2-6k we are tracking closer to the red line of the KB5000_7 corrected curve, with a small dip from 1.2-2.5KHz. This takes the \"shine\" out of some female vocals, and provides for a gentler upper midrange.\n\n3) From 3 to 8KHz, the red curve of the KB5000_7 indicates that the typical \"Harman\" target measures several db too low. When we tuned to this target, cymbals and higher register strings really pop without getting bright, so people wanting a snappier sound will really like this.\nFig 1: AEON CORE measured on 45CA with RA0402 and KB5000\n​\nSo here's where things get extra interesting. Keep in mind the following 5128 target is one we are developing in house so don't consider it a vetted target! 5128 targets can only be made on a per headphone basis, at this point, and only if you have the Welti ears to set a baseline. \n\nIn substance the two actual measured responses look virtually identical all the way to 6KHz, at which point they diverge, radically. The GRAS shows a significant trough from 6-11KHz that is utterly absent on the 5128. Extensive listening tests confirm that in this area the 5128 tracks very closely to what our testers hear, but the GRAS does not.\nFigure 2: The same AEON CORE measured on the 5128​\n\nSo what's the point? Well, if you want to use DSP, use real care with GRAS-based measurements above 6KHz, especially for this headphone. Personally I find this beyond fascinating and am going to be working further on this. So, avoid any high-q fine-tuning, especially based on GRAS results, because you may be tuning a ghost. \n\nAs a final tip for tuning highs with DSP, keep it simple and unless you know how to use tones and noise, stick to a simple high-shelf filter with a q around 1 and a knee at 6-8Khz.\n\nThere's so much more complexity to this than I can reasonably summarize, but at the quick and dirty is for this specific headphone we trust the GRAS curves to about 6KHz and the 5128 above that. C'est la guerre! This isn't a general rule for headphones, and it's the first time we've run across this, so we'll continue to research. \n\nThat ends my probably too long TED talk!"
+    },
+    {
+      "post_index": 3,
+      "author": "Member",
+      "date": "",
+      "content": "Interesting design. Cant wait to try it (if it is actually that affordable)"
+    },
+    {
+      "post_index": 4,
+      "author": "Member",
+      "date": "",
+      "content": "So it's not quite at the STEALTH level, but does it surpass E3?"
+    },
+    {
+      "post_index": 5,
+      "author": "Member",
+      "date": "",
+      "content": "I've had the Stealth and my Aeon 2 closed back is coming in today from servicing. Got the Dekoni pads for it waiting so it'll be like new. It'll be fun to see how it measures and tuning for it."
+    },
+    {
+      "post_index": 6,
+      "author": "Member",
+      "date": "",
+      "content": "NehPets said:\n\n\t\t\tSo it's not quite at the STEALTH level, but does it surpass E3?\n\t\t\nClick to expand...\nE3 will project a bit bigger soundstage and  pull out a bit more resolution. our goal was to make as much of that accessible to everyone as we possibly could.\n\nEdit: E3 also puts out a bit more bass."
+    },
+    {
+      "post_index": 7,
+      "author": "Member",
+      "date": "",
+      "content": "Is there a price - sorry can't see full video right now.\n\nAlso Noire X or this?"
+    },
+    {
+      "post_index": 8,
+      "author": "Member",
+      "date": "",
+      "content": "KickAssCop said:\n\n\t\t\tIs there a price - sorry can't see full video right now.\n\nAlso Noire X or this?\n\t\t\nClick to expand...\n899"
+    },
+    {
+      "post_index": 9,
+      "author": "Member",
+      "date": "",
+      "content": "Looks like the Stealth, Expanse, Noire X and Noire XO…which is kinda odd to me. DCA will now have 5 headphones with the same tuning. Seems slightly redundant methinks…but then again Hifiman has been releasing the same headphone for the last 10 years and they seem to be doing just fine."
+    },
+    {
+      "post_index": 10,
+      "author": "Member",
+      "date": "",
+      "content": "SnoopyMarc said:\n\n\t\t\t899\n\t\t\nClick to expand...\nBruh, that is probably a serious price/performance contender. Nice to see that\nKammerat Rebekka said:\n\nLooks like the Stealth, Expanse, Noire X and Noire XO…which is kinda odd to me. DCA will now have 5 headphones with the same tuning. Seems slightly redundant methinks…but then again Hifiman has been releasing the same headphone for the last 10 years and they seem to be doing just fine.\n\t\t\nClick to expand...\nClick to expand...\nWell even though they all look similar they have quite the differences when listening to them.\n\nThe Expanse has much smoother and less peaky upper treble than the XO. (Which unfortunately ruled out the XO for me)"
+    }
+  ]
+}

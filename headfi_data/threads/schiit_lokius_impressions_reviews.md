@@ -1,0 +1,189 @@
+# Schiit Lokius Impressions & Reviews
+
+- **Forum Section**: dedicated-source-components.7
+- **Original Author**: tincanear
+- **Replies / Views**: 424 / 126K
+- **URL**: [https://www.head-fi.org/threads/schiit-lokius-impressions-reviews.958856/unread](https://www.head-fi.org/threads/schiit-lokius-impressions-reviews.958856/unread)
+
+## Attached Gear Images
+
+![Attached Image](../images/th_schiit_lokius_impressions_reviews_img_91598.jpg)
+
+![Attached Image](../images/th_schiit_lokius_impressions_reviews_img_979887.jpg)
+
+## Discussion Posts & Comments
+
+### Post #1 by **tincanear** ()
+
+from the manufacturer's specs page:
+
+Bands: 20Hz, 120Hz, 400Hz, 2kHz, 6kHz, 16kHz
+
+Adjustment: +/-12dB at 20Hz and 16kHz, +/-9dB at 120Hz and 6kHz, +/-6dB at 400 and 2kHz
+
+Maximum Output: 10V RMS (SE), 20V RMS (balanced)
+
+Frequency Response: 20Hz-20Khz, -0.1db, 2Hz-1MHz, -3dB
+
+THD: Less than 0.0008%, 20Hz-20KHz, at 2V RMS in/out, pots centered, active stage enabled, less than 0.002% at any potentiometer setting
+
+IMD: Less than 0.001%, CCIF
+
+SNR: Greater than 115db, unweighted, referenced to 1V RMS
+
+Crosstalk: -85dB, 20Hz-20KHz
+
+Output Impedance: 75 ohms
+
+Input Impedance: 47K ohms
+
+Topology: discrete, all-bipolar, symmetrical current-feedback design with matched parts throughout, DC coupled, with DC servo, plus dual-stage discrete superbuffer
+
+Filtering: capacitor-gyrator for 20Hz and 120Hz, capacitor-inductor (LC) for all other bands
+
+Power Supply: “Wall wart” style 16VAC transformer, dual regulated +/- 17V rails
+
+Power Consumption: 6W
+
+Size: 6 x 9 x 1.5”
+
+Weight: 2 lbs
+
+----------------------------------------------
+
+my initial impressions:
+
+Setup:
+
+connected SE in / out (RCA) to Bifrost OG (gen 1, multibit) below the Lokius, and Asgard 3 (above the Lokius);
+
+power via included Schiit-branded AC wall brick, 16VAC 1000mA rating.
+
+hum and noise:
+
+with all control knobs set to middle detents, noise and hum sounds the same in both Bypass and Process modes, despite the stacking above to BF1 & A3.
+
+sound quality:
+
+Unit is very transparent sounding with all knobs set to center.
+
+Bands seem well chosen, esp the 120Hz control, which was lacking on the smaller Loki Mini units.
+
+(added)
+
+Mechanicals / Build Quality:
+
+unit was packaged in brown corrugated box, sealed with Schiit-Texas logo packaging tape (nice touch!) and protective 3-D foam bumpers on both ends, plus an extra corrugated cardboard layer between unit and the white boxed wall wart AC transformer-- typical high-quality Schiit packaging.
+
+As shipped, all controls set to mid detent, and all rotated very smoothly without any knob/front panel interference.  Knob pointers aligned pretty well with 12:00 position when detented.
+
+Very good assembly quality out of the new Corpus Christie facility. 
+
+Power On LED is very bright especially in a dimly lit room / at night, like many Schiit products.
+
+---
+
+### Post #2 by **Member** ()
+
+I  look forward to your impressions!  Thank you!
+
+ORT
+
+---
+
+### Post #3 by **Member** ()
+
+Random musings on my first night with it:
+
+Can say the same about hum and noise, sandwiched between the Bifrost and Valhalla, or on the outside against the Biforst, the Lokius introduces zero noise or hum interference. This is unlike the Loki-1, which would buzz when near either DAC or amp and I had to move it 6-8 inches away to get a transparent signal.
+
+I find that the knobs are not as responsive / granular as the Loki-1. For example, the 6 and 16k knobs can be +/0 neutral quite a few degrees and leave me with no audible difference - the band changes are more prominent sweeping to the extremes. On my older unit, every tiny nudge mattered. This lets me down, because I felt by paying double for 50% more control, I wouldnt be giving up control. I also find the 20hz knob is much less meaningful than the older model, and all the bass magic now happens on the 120hz (this results is better, punchier bass, refining a more significant band IMO). That said, once I finally hit the sweet spot in a few days it'll be set & forget so I won't care as much.
+
+Light is definitely the brightest on my desk, but dimmer than the Loki-1. I'm fine with it and am glad it's not giving me OCD urges.
+
+It's a cool looking unit, love the internal orange lights under the air vents. The form factor sits nicely with my other products, and the increased size helps disperse heat, so its actually a cooler unit than the Loki-1 which ran rather hot for its size. I wish the wall wart wasnt so massive.
+
+EDIT UPDATE: So my unit ended up being faulty, with one of the output channels buzzing. The return/warranty process was a breeze and customer support gets a gold star. As for the unit, this one has much smoother knobs for the most part, so my criticism above about them not being as responsive is much improved (these feel nice to spin, pushing for a small change doesnt feel like i'll overshoot, it just moves exactly where I want - this first unit was more grainy to make small adjustments, like the lubricant dried up - the 16K knob is like that on this one but the rest are mostly perfect.
+
+---
+
+### Post #4 by **Member** ()
+
+Lvivske said:
+
+			Random musings on my first night with it:
+
+Can say the same about hum and noise, sandwiched between the Bifrost and Valhalla, or on the outside against the Biforst, the Lokius introduces zero noise or hum interference. This is unlike the Loki-1, which would buzz when near either DAC or amp and I had to move it 6-8 inches away to get a transparent signal.
+
+I find that the knobs are not as responsive / granular as the Loki-1. For example, the 6 and 16k knobs can be +/0 neutral quite a few degrees and leave me with no audible difference - the band changes are more prominent sweeping to the extremes. On my older unit, every tiny nudge mattered. This lets me down, because I felt by paying double for 50% more control, I wouldnt be giving up control. I also find the 20hz knob is much less meaningful than the older model, and all the bass magic now happens on the 120hz (this results is better, punchier bass, refining a more significant band IMO). That said, once I finally hit the sweet spot in a few days it'll be set & forget so I won't care as much.
+
+Light is definitely the brightest on my desk, but dimmer than the Loki-1. I'm fine with it and am glad it's not giving me OCD urges.
+
+It's a cool looking unit, love the internal orange lights under the air vents. The form factor sits nicely with my other products, and the increased size helps disperse heat, so its actually a cooler unit than the Loki-1 which ran rather hot for its size. I wish the wall wart wasnt so massive.
+Click to expand...
+
+i felt the same about the responsiveness of the knobs when compared to Loki or Loki+. Although, I wonder if it’s because we’re going from 4 to 6 bands? Therefore, adjusting one bands tone is less likely to impact another band unintentionally? I’m probably wrong, so maybe someone with more knowledge in how this stuff works can chime in?
+
+---
+
+### Post #5 by **Member** ()
+
+I think it's just a narrower Q-factor?
+
+---
+
+### Post #6 by **Member** ()
+
++1 that the 20Hz knob on Lokius acts differently than on Loki+.  I can't speak to Loki as I don't have one.
+
+on Loki+ the 20hz control had a broad effect extending to 150Hz and beyond  as confirmed by looking at the response plots in the APx report (e.g. 20Hz control at max boost +12dB @ 20 Hz, +8dB @ 120 Hz),.
+
+with Lokius the 20Hz control seems to have a sharper cutoff.
+
+The Lokius' 120Hz control makes for more audible changes on most program material (exceptions being Also Sprach Zarathustra, recordings of steam and diesel locomotives, earthquake simulations, etc... where the 20Hz control is used) and might be more useful in taming the resonances sometimes encountered with desk or table top full range speaker placements.  there's no APx report on the product page currently, but I suspect the 120Hz control effects a range from 60 to 250Hz or so.
+
+Going from 4 bands (Loki & Loki+) to 6 bands (Lokius) it makes sense for Jason and company to re-tune the 20Hz band on Lokius for higher q and/or lower center frequency to minimize overlap with the newly added 120Hz control.  similarly, the 400Hz control on Lokius may have been re-tuned as well.
+
+---
+
+### Post #7 by **Member** ()
+
+A frequency plot of the different pots max range of change showing the slopes would be interesting.
+
+---
+
+### Post #8 by **Member** ()
+
+We did a live stream the other evening discussing the Lokius and other fun audio stuff for those of you interested 
+
+SCHIIT LOKIUS 6-BAND BALANCED TONE CONTROL, First Impressions and MR HiFi Hangout
+
+---
+
+### Post #9 by **Member** ()
+
+Schiit Lokius Impressions​
+I decided to order a B-stock Lokius to save a couple of dollars and I can’t see any physical blemishes on it – I guess that Schiit’s inspection of returned units is quite thorough. I placed it between my Bifrost Multibit and Jotunheim 2. I read somewhere that this can induce hum in the Lokius, but I hear no trace of either hum or any other noise.
+
+The Lokius runs warm to the touch but it’s not hot. It only uses 6W of power so I leave it on all the time. I can hear no difference in sound when leaving the Lokius in bypass mode and when leaving it in active mode with all the knobs set to neutral. There is no clicking noise when switching back and forth between bypass and active mode so it’s OK to switch back and forth while listening to music.
+
+So how does it sound? Clearly, the standard goal of not coloring the sound does not apply here – the purpose of the Lokius is precisely to let you tune the sound to your liking. The EQ bands are well chosen and small changes to the knobs seem to affect a broader frequency range to let you gently alter the sound. Very nice. I especially like the 20 Hz knob to add a bit of bass to headphones that are a bit bass light (DCA Aeon Flow Closed comes to mind) and the 6 kHz knob is good to turning down the sibilance a bit when it becomes annoying – very useful for Beyerdynamic headphones, for example. I don’t have an HD 800 but I would expect that by turning the 6 kHz knob all the way down even that headphone may become borderline listenable.
+
+In summary the Lokius is a very nice unit to tailor the sound to your liking. Add more of what you like or remove what you don’t like – it’s up to you. Does anyone need a Lokius? Not at all, but it is a fun product. Purists should look away – this toy isn’t for you.
+
+---
+
+### Post #10 by **Member** ()
+
+I'm enjoying using mine, I'm finding the ability to adjust for recordings or my HP's to my liking.
+
+In the 70's everything had a bass and treble control and usually a bass contour switch. and I used them to suit myself. A fancy one or two units even had some midrange control. I lusted after Crown's graphic equalizer for a long time but never made my move.
+
+Somewhere in the 80's some designers discovered the purity / simplicity of units with no frequency altering controls and that became the high end design du jour. And I bought into the fashion of the day and accepted and lived with the sonic problems / shortcomings of many recordings and transducers.
+
+Everything old is new again and here we are. With the controls on my Lokius null'd and switching between in and out of circuit I just can't  say I hear much if any difference and so I'm happy to tune to my liking (although the HP I use it on is the SR1a, (boost at 20Hz/cut at 6K/ a bit of boost at 8K) haven't tried it with my other two HP's as yet).
+
+Of course the cognoscenti will simply state that is because my other equipment is not adequately revealing. Fair enough, but I'm happy with my purchase(s).
+
+---
+

@@ -1,0 +1,38 @@
+# FIIO IMP-XLR-4 speaker amplifier voltage divider for balanced headphone
+
+- **Category**: desktop-amps.269
+- **Overall Rating**: 4.00 star(s)
+- **Product URL**: [https://www.head-fi.org/showcase/fiio-imp-xlr-4-speaker-amplifier-voltage-divider-for-balanced-headphone.29484/](https://www.head-fi.org/showcase/fiio-imp-xlr-4-speaker-amplifier-voltage-divider-for-balanced-headphone.29484/)
+
+![Product Image](../images/rev_fiio_imp_xlr_4_speaker_amplifier_voltage_divider_for_balance_thumb_437496.jpeg)
+
+## Reviews & Audio Impressions
+
+### Review #1 by  (Rating: 4.50 star(s))
+
+Fiio IMP-XLR-4 
+
+TLDR: This small device takes speaker wire inputs from your existing amplifier (e.g. home theater receiver or integrated amp but NOT directly from a power amp without a volume control), and transforms the speaker level power down to voltages suitable for balanced headphones listed as 16 to 300 ohms. So the headphones must have a cable terminating in a 4-pin XLR female; OR a 4.4 mm pentaconn-style male plug.  Thus, your existing amp “sees” the IMP as a pair of speakers, while your headphones “see” the IMP as a balanced headphone amp.  It works, and works well.  Undoubtedly better sound quality on any criterion than the typical op-amp single-ended headphone jack on a receiver; possibly not the equal of a dedicated headphone amplifier set-up…BUT how are you gonna get a balanced headphone amp jacked into your single-ended home theater receiver, hmmm? Oh, and it costs about as much as a single Neutrik-branded RCA male to XLR adaptor.
+
+THE PROBLEM TO BE SOLVED:  Below the price points of esoteric gear, the worlds of home theater receivers and mid-tier integrated amplifiers have a weak spot in the standard, 6.5 mm headphone jacks they offer.  The sound from these jacks to phones of 32 or greater ohms can appear thin, anemic, listless. Further, if one has invested in headphones with 4-pin XLR or 4.4mm pentaconn style cable terminations, they have no home when its midnight and we want to rock out or enjoy alien lasers at worthwhile volumes.
+
+ENTER FIOO IMP-XLR-4: You say your integrated amp has “Speaker 2” outputs you’re not using?  Or your Home Theater Receiver has a Zone 2 (or 3) speaker-level outputs you’re not using?  Then run Left and Right speaker cables from your existing unit to your new, modest-sized Fiio IMP.  Then LOWER the volume output from your existing unit, because you might be able to “blow up” your headphones with too much juice.  Plug in your headphones and raise volume to a comfortable level, and enjoy better sound quality.  No more anemia.  Dynamic punch replaces listlessness.  Very nice.
+
+IS IT EASY?  No.  Well, not through any fault of the Fioo unit.  You are running two sets of speaker cables across the floor to your listening chair, and they are less tidy than a single-ended headphone extension cable.  Worse still, my Yamaha receiver needs to be coaxed to get HDMI output to Zone 2.  One does this by (1) setting the source in Zone 1 to one’s desired source (2) pressing “Party” mode, which sends stereo out to Zone 2 from the same source as Zone 1 (3) Muting Zone 1 volume (4) on the remote (not the MusicCast app) sliding the switch to Zone 2 and lowering volume way, way down (e.g. -60) (5) plugging in the headphones and raising volume.
+
+SHOULD YOU SELL YOUR FANCY BALANCED HEADPHONE AMP AND JUST RELY ON THE FIOO IMP?  I won’t.  My Geshelli amp and ZMF/JDS-Labs Homage amp each sound better to me than what the Yamaha can produce through the IMP.  But will I be happily using the IMP for AppleTV shows?  You betcha.
+
+WHAT ELSE?  My Yamaha by default applied the EQ settings for speakers in Zone 1 to Zone 2.  It made the IMP set-up sound overly warm.  I had to go back to Zone 1, enable Setup, find “Multizone” and the submenu within that offers Tone Control specifically for Zone 2.  Thus, defeating Zone 2 Tone Controls yielded much better tonal balance. But then I ended up slightly up-tweaking Treble and Bass a half-decibel each.  Hey, I’m old. But that brought the IMP set-up even closer to the sound of the Geshelli, to my ears.  Not equal to the Geshelli, but quite satisfying. And, to repeat, worlds better than the Yamaha hp jack.
+
+WHAT OTHER ELSE? Hmm, what if I got another IMP for the 2.1 system in the other room, that has no headphone amp?  I would need a good quality speaker selector switch that accepts banana plugs.  And they cost… three times as much as the IMP.  Never mind.
+
+HEADPHONES TRIED:  Dan Clark/Drop entry level closed back for initial testing (what could go wrong?); Dan Clark E3; Focal Clear MG.
+
+Fiio IMP-XLR-4 is highly recommended for these use cases; or if it just sounds like fun, because it is. BUT FOLLOW VOLUME DIRECTIONS.
+
+#### Review Photos
+
+![Gear Photo](../images/rev_fiio_imp_xlr_4_speaker_amplifier_voltage_divider_for_balance_photo_880778.jpeg)
+
+![Gear Photo](../images/rev_fiio_imp_xlr_4_speaker_amplifier_voltage_divider_for_balance_photo_293431.jpeg)
+

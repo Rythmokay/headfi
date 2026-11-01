@@ -1,0 +1,344 @@
+# ZMF Airmid OTL amplifier
+
+- **Category**: desktop-amps.269
+- **Overall Rating**: 4.00 star(s)
+- **Product URL**: [https://www.head-fi.org/showcase/zmf-airmid-otl-amplifier.29537/](https://www.head-fi.org/showcase/zmf-airmid-otl-amplifier.29537/)
+
+![Product Image](../images/rev_zmf_airmid_otl_amplifier_thumb_37574.jpeg)
+
+## Reviews & Audio Impressions
+
+### Review #1 by  (Rating: 4.50 star(s))
+
+Introduction
+​
+The ZMF Airmid is a recently released collaboration between Keenan McKnight-Gwyn (aka 
+@L0rdGwyn
+ on Head-Fi) and ZMF. This OTL (output transformer-less) tube amp—named after the Gaelic goddess of healing and resurrection—is based upon a custom circuit design of Keenan’s and built to spec by Cayin for ZMF. The price direct from ZMF is $2,999. An optional tube upgrade bundle—which includes vintage NOS 6SN7 and 5U4G with new production TAD black plate KT88s—is an additional $200.
+Overview
+​
+Over the past decade I have owned many different headphone amps, including several OTLs. For the past year-and-a-half I’ve been a very satisfied owner of the ZMF Aegis—a spectacular OTC (output transformer-coupled) headphone amp also designed by Keenan—which is very well regarded by the Head-Fi community. During my time with Aegis I’ve rolled it incessantly.
+
+Along the way, I’ve acquired a large assortment of tubes. Conveniently, many of them are compatible in Airmid, so this review will feature the perspective and recommendations of an avid tube roller.
+
+At a high level I’ll discuss Airmid’s circuit design, share my general impressions, describe how it sounds with my headphones, detail my tube rolling adventures, briefly compare Aegis to Airmid, and evaluate pre-amping Airmid into Aegis and into a solid state amp.
+Review Gear
+​
+My Airmid was purchased on the day of its release. For most of the month of October I have listened to it for hours on end (with too many sleepless yet thoroughly delightful nights to count). Both Airmid and Aegis were each fit with their stock tubes to establish an initial baseline for the direct comparison between them, then Airmid was rolled extensively thereafter. The DAC used for both amps is my Schiit Audio Yggdrasil Singular (aka “Byggy”). Source is Qobuz/Tidal plus my extensive FLAC library fed through Roon, delivered via fiber optic conversion to my Mac mini (which has been optimized for streaming). From there the USB-C source was delivered to a Schiit Audio Eitr 2 DDC into my Byggy via AES and sent through separate SE outputs to Airmid and to Aegis. Pre-amp setup was Airmid into Aegis and Airmid into my Schiit Audio Mjolnir 3. The headphones used for this review are from DCA, Focal, HFM, Sennheiser, and ZMF.
+Differences from the OG Airmid
+​
+As mentioned, the Airmid originated as a DIY custom build by Keenan. Only five originals were made. This ZMF collaboration features an updated commercial design. The original Airmid used a pair of 6J5/6C5 input tubes, a pair of 6AS7G/6080 output tubes, combined with solid state rectification. This ZMF version has a different stock tube complement with a single 6SN7 tube for the input, a pair of EL34 tubes for the output, and GZ34 tube rectification based upon the design used in Aegis.
+
+There are several unique features to highlight. Notably there is a gyrator-loaded 6SN7 input stage. The gyrator presents a very high impedance load to the input tube, but also locks in its operating plate voltage. Because the two stages are directly coupled—with no coupling capacitor between them—it also sets the grid voltage of the output tubes. The output tube cathode follower is also actively loaded and the bias current is fixed at 60 mA. The output tube then finds its own cathode voltage, which allows for a wide range of tubes to be used. You can find the vast tube compatibility sheet 
+here
+.
+
+As is typical for OTL designs, Airmid’s output power is modest, a little under 500 mA. An OTL amp is typically not a high power amplifier given it is designed for headphones which don’t rely on much current delivery. By contrast, an OTC amplifier like Aegis exchanges its large voltage swing for more current with the output transformer. An OTL does not. Instead it provides the high voltage swing necessary for high impedance dynamic headphones like the Verité, Atrium, or HD800.
+
+Airmid has a custom Nichicon bypass cap in the input stage (same as Aegis) and film caps in the output stage. Volume control uses an Alps RK27 20K pot, which tracks exceptionally well at low volumes. This circuit provides very low distortion with prominent detail. Because the input tube is supplied by a DC heater the noise floor is remarkably low for an OTL design.
+
+Of note Airmid is designed to be gentle on its tube complement. The amp has a built-in delayed B+ startup sequence which is necessary because, as stated, its input and output stages are directly coupled with no cap in between. This avoids any possibility of the B+ being applied while the cathodes are still cold and the tubes are not ready to conduct. During startup the heaters are applied first for 30 seconds so the tubes become warm and, consequently, are ready to safely conduct. Then the B+ supply is applied for an additional 30 seconds, after which the headphone/preamp outputs are connected. Therefore, Airmid’s startup takes a little over a minute before the outputs are ready after power on. A preferential side effect of this gentle startup sequence is it may help increase the longevity of your precious tubes.
+
+Other new features found the commercial Airmid include an optional global negative feedback switch with three settings—no feedback, medium, and high. With the stock JJ tubes this translates to 73 Ω output impedance with no feedback, 38 Ω on medium, and 21 Ω with high. Interestingly, Airmid’s character changes between these settings. No feedback offers more dynamics and punch, medium is more refined and balanced, and high provides the lowest distortion and smoothest sound.
+
+There are two available pre-amp outputs. Conveniently, three different headphones jacks are provided—4-pin XLR, ¼” TRS, and 4.4 mm pentaconn—though all are single-ended. Toggle switches select the active output (headphones, preamp 1, or preamp 2) and designate the active headphone jack. Feedback is applied to 
+both
+ the headphone and pre-amp outputs. As a result, feedback operates as a gain switch in pre-amp mode, with the highest gain provided with no feedback and lowest with high. Because of this ZMF recommends not using high feedback when in pre-amp mode because the gain is quite low. Each output—headphone and both pre-amps—is isolated.
+
+Lastly, this amp is stunning in appearance. Airmid highlights the industrial design for which ZMF is justifiably famous. IMHO, the ZMF Airmid has the coolest volume knob ever featured in a commercial amp. Best of all the knob is buttery smooth in operation. Airmid’s dimensions are 14.25” width x 12.25” length x 8” height. Weight is 29.5 pounds.
+Sound
+​
+Let’s get to the important part. What does Airmid sound like? A typical OTL is renowned for its open presentation and beautiful tonality. In both these respects, Airmid does not disappoint. In fact, Airmid has the most expansive sense of space and soundstage I’ve encountered in an OTL. The holography is insane and instruments and voices feel perfectly placed in space so one gets an excellent rendition of the room. There is none of the smearing or blending I’ve occasionally encountered in other amps of this type. The sound is warm, without being overly so—though you can alter this to taste with rolling. It is one of the most fatigue-free listening experiences I’ve ever enjoyed. With my Verité Open on Airmid hours pass by, and—more than once—I’ve glanced at my watch to find it’s the middle of the night, hours spent mesmerized by its wonderful timbre, texture, and tonality.
+
+This isn’t the whole tale, however. What is utterly distinctive in my experience with Airmid—unique among OTL amps I’ve heard to date—is its terrific low end. Many OTL amps feature a liquid, relaxed, comfortable presentation, almost overly polite. Not here. Not with Airmid. As Keenan himself stated in the introductory video with Zach from ZMF, this amp has real “dynamism, punch, and kick.” There is absolutely no lack of note weight.
+
+The midrange—as you’d expect with this amp—is stellar. Combined with this wonderful bass and its outstanding level of detail and the delicious, spacious holography, Airmid’s sound is singular, addictive, captivating, and the finest I’ve encountered with this topology.
+Schiit Audio Imp add-on
+​
+Before we get to the Airmid experience with my headphones, for those unfamiliar with OTL amps, its primary strength is also its primary weakness. These type of amps excel with high impedance dynamics, and should be considered specialist in nature. By design OTLs deliver the high voltage swing required for high impedance dynamics—especially those 300 Ω or greater—such as Sennheiser headphones or most ZMF dynamics (e.g., Verité, Atrium, Auteur, or Eikon). Consequently, they don’t do very well with planar headphones which demand significant current to sound their best.
+
+The ZMF Airmid features built-in flexibility with the negative feedback switch to run easier-to-drive planars or lower impedance dynamics. For these type of headphones the results on medium or high feedback are quite pleasant with a noticeably firmer grip on the drivers than you’d might otherwise expect.
+
+To help further address the inherent deficiency of an OTL amp like Airmid, when you order an Airmid from their website ZMF offers the Schiit Audio Imp as an add-on ($99). The Imp functions as an impedance multiplier. It is an ingenious little device which keeps your headphones directly connected to the Airmid. You still retain all that wonderful OTL tube sound while the Imp makes your demanding planar appear to have 8 times the impedance. As a result Airmid drives your planar headphone more easily without any change to the sound signature it provides. Notably the Imp’s 4.4 mm jack is balanced which provides twice the voltage swing of the ¼” jack (20 V RMS versus 10 V RMS). A match made in planar heaven.
+
+To get a handle on whether an Airmid and Imp will work with your planar, use the following formula:
+damping factor = (headphone impedance x 8) / amp impedance​
+
+At the bare minimum you'll need a damping factor of one for a headphone to be functional, preferably 3 or greater. Some suggest a damping factor of 8 is ideal. Let your ears be your guide. Additionally, factor in headphone sensitivity (in dB/mW) too. The higher the sensitivity, the easier it will be for Airmid to drive your planar at a comfortable volume. Lastly, as noted in both the Headphone and Tube Rolling sections to follow, output tubes can lower the output impedance of Airmid, sometimes rather significantly.
+
+Remarkably, there are reports in the wild of Airmid+Imp driving Susvara Unveiled and other beasts quite well. This add-on moves Airmid from being a limited specialist amp exclusively for 300 Ω (or greater) headphones to something much more versatile.
+
+If you’re curious about Imp you can find more details 
+here
+.
+Headphones
+​
+
+As emphasized, Airmid is designed for high Z dynamic headphones. For planar headphone aficionados who own cans which are on the demanding end of the spectrum, there are three routes to take if the Airmid is in your chain: (1) preamp Airmid into a solid state amplifier; (2) preamp Airmid into Aegis (or other OTC amp); or (3) Airmid output into the Schiit Audio Imp.
+
+Headphone output gain is 23 dB with no feedback, 19 dB with medium feedback, and 13.8 dB with high feedback.
+
+In this section you’ll find descriptions of my headphone experiences with Airmid. I do not have any IEMs. Unlike Aegis, the 4.4 mm jack in Airmid is 
+not 
+attenuated for IEM use.
+
+For reference, my test playlist included the following tracks. 
+Here
+ is the playlist on Qobuz.
+Low - “Hatchet” from 
+Drums and Guns
+Low - “Your Poison” from 
+Drums and Guns
+Troels Hammer - “Pathway to Silence” from 
+Pilgrim
+Myrkur - “Ella” from 
+Folkesange
+Joni Mitchell - “A Case of You” from 
+Blue
+Iron & Wine - “Jezebel” from 
+Woman King EP
+Hilary Hahn - “Bach: Partita Nº3 in E major for solo violin, BWV.1006 - VII. Gigue” from 
+Hilary Hahn Plays Bach
+Ivan Moravec - “Chopin: Prelude Nº7 in A major, op.28” from 
+Portrait
+Branford Marsalis - “Makin’ Whoopie” from 
+Trio Jeepy
+Fleetwood Mac - “Never Going Back Again” from 
+Rumours
+Jeff Beck - “Goodbye Pork Pie Hat” from 
+Wired
+Yellow - “Out of Sight” from 
+Point
+Charlie Hunter - “Coming Up” from 
+AM Clock Radio
+Rush - “Tom Sawyer” from 
+Moving Pictures
+Elton John - “Captain Fantastic and the Brown Dirt Cowboy” from 
+Captain Fantastic
+Daniel Lanois - “Advent” from 
+Belladonna Nocturne
+Low - “(That’s How You Sing) Amazing Grace” from 
+Trust
+Hilary Hahn and Hauschka - “Stillness” from 
+Silfra
+Because the following roll is extremely detailed and reveals nuance and differences with ease, these tubes were used for the headphone comparison:
+​
+Input
+: pair Svetlana 6S8S bottom getter grey plates (with adapter)​
+Rectifier
+: Mullard GZ34 rs1 metal base​
+Outputs
+: GEC KT88 top getter​
+Sennheiser HD600
+Dynamic - 300 Ω - 97dB/mW
+
+Absolutely terrific tonality, well balanced and natural. The deeper notes from the bass on the opening Low track are rendered beautifully, as is Milt Hinton’s acoustic upright bass on “Makin’ Whoopee.” Vocals are exquisite. Both note weight and decay are very good. The HD600 was my first audiophile headphone and it is precisely the type of headphone designed for use on an OTL amp. Even so, Airmid elevates them to a higher plane than I’ve ever heard before.
+Recommendation
+: Best with no feedback. Rating: 8.75/10
+Sennheiser HD6XX
+Dynamic - 300 Ω - 103 dB/mW
+
+Drop version of this beloved Sennheiser classic. Not as neutral as the HD600. Mid-bass is improved. Slightly less open than its sibling above, with a more intimate listening experience. Note decay feels more rounded. Lindsay Buckingham’s acoustic guitar sounds terrific. The Yellow track is really fun with these.
+Recommendation
+: Best with no feedback. Rating: 8.5/10
+Sennheiser HD800
+Dynamic - 300 Ω - 102 dB/mW
+
+Until I bought my ZMFs this was my gold standard. Its soundstage is justifiably legendary among headphones. However, the HD800 can sound veiled, even when paired with a quality OTL amp. Not so with Airmid. It takes that notorious Sennheiser veil and rips it completely away. Like the HD600, this is the very best I’ve heard these headphones sound. The bass in particular—a weakness for the HD800 on some amplifiers—is shockingly good. The stage is vast. It’s a lovely combination of openness, finesse, and (dare I say) punch. Hilary’s violin in the Bach Partita is so alive and alluring. If you want to hear the heights to which the HD800 can ascend, look no further than Airmid. Very, very good pairing.
+Recommendation
+: Best with no feedback. Rating: 9.25/10
+Focal Elex
+Dynamic - 80 Ω - 104 dB/mW
+
+Not surprisingly—given its lower impedance—this is the first dynamic which required feedback to sound its best. The Focal is more forward compared to the Sennheisers with prominent upper mids. The soundstage is not quite as wide as any of the Sennheisers. Dynamic, engaging with a kick, with shimmering treble. Excellent note decay on the Troels Hammer track. Female vocals are quite special. Hinton’s bass thuds, even with feedback enabled. “Out of Sight” Is a blast on this can. Neil’s drums snap.
+Recommendation
+: Best with high feedback. Rating: 7.5/10
+HiFiMan HE-4XX
+
+Planar - 35 Ω - 103 dB/mW
+
+While it is decent with high feedback, it still sounds rather timid. The HE-4XX requires the Imp when paired with Airmid. However with Imp this very modest headphone sounds surprisingly good. The damping factor increases to a very respectable 4. Given the fact the HE-4XX is a very inexpensive entry level headphone and not in the class of any of the others reviewed here, the combo is still rather pleasing. For a casual headphone it is just fine. Bass is prominent. Less balanced than the others. Slight treble roll off. Good sense of space.
+Recommendation
+: Imp required, best with no feedback. Rating: 6.5/10
+DCA Noire X
+
+Planar - 13 Ω - 94 dB/mW
+
+Unsurprisingly, this demanding planar is not viable without an Imp in your chain. Using one with no feedback brings the damping factor to around 1.5, which is usable. However, adding output tubes in Airmid with very high mutual transconductance, such as the Telefunken E130L—see notes in the Tube Rolling section for further details—reduces the output impedance of Airmid to 35 Ω on the no feedback setting. Suddenly the damping factor with the Noire X is increased to 3 when using Imp and the Telefunken tubes. The result is very enjoyable with better balance and clarity. I’m honestly astonished. I still prefer this headphone with either Aegis or Mjolnir 3 or Airmid pre-amped into Mjolnir 3 or Aegis. Yet it’s a remarkable feat that Airmid with Imp drives the Noire X well at all. Lastly, I recommend you use the 4.4mm balanced jack in the Imp with this headphone for the extra 10V of power output because of its lower sensitivity.
+Recommendation
+: Imp required, best with no or medium feedback using Imp’s 4.4 mm jack, with high transconductance output tubes (e.g., 6BG8, 8417, or E130L) in Airmid. Rating: 7/10
+ZMF Bokeh Open
+
+Dynamic - 80 Ω - 103 dB/mW
+
+More than any other headphone tested here, the Bokeh’s character was altered the most with the various feedback settings. Driver control improved on medium and high feedback. The Bokeh Open has a wonderful sense of space on Airmid and is a very relaxing and enjoyable listen. The Troels Hammer track is hypnotic. Adding the Imp, however, makes the pairing better still. (The damping factor is over 9!) The bass becomes addictive. There is greater space and depth and improved holographic imaging. Vocals shine. Very nice note decay. Both the Iron & Wine and Fleetwood Mac tracks are particularly noteworthy here with Imp in the chain.
+Recommendation
+: Best with medium or high feedback; or Imp with no feedback. Rating 7.75/10
+ZMF Bokeh Closed
+
+Dynamic - 80 Ω - 103 dB/mW
+
+The Bokeh Closed headphone might be my sentimental favorite among all my ZMF headphones. It was my first ZMF and I love its warmth and easy-to-drive versatility. Interestingly, while I prefer the Open on either medium or high feedback, I enjoy the Closed on high most. The Airmid’s fine texture, lovely decay, and excellent note weight shine through. Where I like it best, however, is (once again) with the Imp. To my ears, everything improves. Coming into this, I imagined Imp would be only used when pairing Airmid with planars, yet with lower-impedance dynamics like the Bokehs Imp is an unexpectedly good addition. Vocals are simply gorgeous. The Myrkur song is glorious. Staging expands in all directions. Great fun! You really hear the tubes with this configuration.
+Recommendation
+: Best with high feedback; or Imp with no feedback. Rating 8/10
+ZMF Ori 3
+
+Planar - 60 Ω - 95 dB/mW
+
+Ori 3 needed the Imp too. Ori 3 wasn’t usable, as you’d expect, with a damping factor of <1 (with no feedback) without one. But, boy howdy, add Imp and suddenly airmid sees 480 Ω and your damping factor increases to 6.8, close to ideal. Consequently, Airmid+Imp+Ori 3 plays beautiful music together. If you dig bass, you’ll dig this. (Especially with the plugs out of Ori 3.) The bass on “Hatchet” is crazy good and it brought an instant smile to my face, as it did for “Makin’ Whoopee.” Add that profound bass to the sublime holography, texture and timbre of Airmid and this combo, shockingly, is a real winner. Jeff Beck’s guitar on “Goodbye Pork Pie Hat” offers a smorgasbord of different tones and delights. Overall vocals are lovely. Terrific note weight and delicious, lingering decay. Drums seriously kick. Color me stunned. This is an astonishingly addictive sound. This combo is going to get some serious playtime.
+Recommendation
+: Imp required with no feedback, best used with Imp’s 4.4 mm jack. Rating 8.75/10
+ZMF Tessidera
+
+Planar - 35 Ω - 92 dB/mW
+
+Over the past several months, Tessidera has been my favorite headphone with Aegis, so I was extremely curious to hear how it might work on Airmid. Predictably, this headphone needs Imp too. It is okay with high feedback yet still sounds far too dampened. With Imp (again using its 4.4 mm jack) Tess awakens fully. This is another situation where exploring high transconductance outputs may be useful. With stock tubes the damping factor is a healthy 4. With the high Gm tubes mentioned below your damping factor expands to between 5½ and 8. It might not have the excitement of the Ori 3 yet it is more detailed, and the mids—Tess’s speciality—remain excellent. The end result is hypnotic. It’s easy to get lost in the music. In the end, I prefer Tessidera on Aegis—there is such good synergy between them—though Airmid setup this way does Tess justice.
+Recommendation
+: Imp required with no or medium feedback, best used with Imp’s 4.4 mm jack and an optional high transconductance output tube (6BG8, 8417, or E130L). Rating 7.5/10
+ZMF Verité Open
+
+Dynamic - 300 Ω - 97 dB/mW
+
+Among my headphones, this is the absolute shining star on Airmid. They were made for each other. There’s a reason why ZMF offers the Verité Open as a discounted bundled option with an Airmid purchase. The strengths of each are evident here and the synergy is incredible. The amp and headphone complement one another, playing perfectly to the core strength of each. All those special characteristics of the Airmid’s sound are here in spades. Perhaps it is unleashed magic from Verité’s beryllium drivers. Who can say? All you need do is listen. The bass on the Charlie Hunter track is fat and vibrant. Joni’s vocals send shivers down my spine. Neil’s drum fills are exciting and precisely rendered. “Advent” is an otherworldly experience, rendered so deeply you fall into the song. You get the idea. It’s easily the very best I've ever heard my Verité’s. Zach was spot on when he described the sound as “organic” with fat bass and a sense of air and space. If I were forced onto a metaphorical desert island and limited to only one amp and one pair of headphones, it would, without doubt, be these two. If you own a pair of Verité headphones and want an amp to make them sing, then look no further.
+Recommendation
+: Best with no feedback. Rating: 10/10. If I could give this 11/10—à la Spinal Tap’s Nigel Tufnel—I surely would.
+Tube Rolling
+​
+
+Before we delve into my rolling recommendations, there are a few important general guidelines to mention first. The most vital one is gaining familiarity with Airmid’s 
+tube compatibility spreadsheet
+. If you decide to venture down this path, it will be your guide to safely and properly roll your Airmid. Keenan keeps it updated as compatible tubes are identified and tested.
+
+First, let’s discuss the input tube. Given the limitations in Airmid with the DC heater winding current capacity, the input tube heaters are capped at a maximum of 600 mA of current. To be compatible in Airmid the current rating of your input tube must be no more than 600 mA at 6.3 volts.
+
+In practice this allows use of 6SN7GT and ECC33 as the default type. With adapters, however, options open to an astonishing variety of inputs: 7N7, 6CG7, 12AU7, 6C4 pairs, 6J5/6C5/6P5 pairs, 2C22/7193/CV6 pairs, 6F8G, 6922, 6N1P, 5670, E182CC, E80CC, 6463, and ECC40. A vast number to be sure.
+
+Next, the outputs. Each output tube is locked in at 60 mA of current, or 120 mA total from your rectifier. Pay attention to the transconductance rating (Gm on the data sheet) because the higher this value the lower the output impedance will be. For example, the Telefunken E130L has a very high Gm of 27.5 mA/V which produces significantly lower output impedance versus the stock JJ EL34 tubes. In this case 35 Ω with no feedback, 20 Ω with medium, and 10 Ω with high. As you can see, output tube rolling has other impacts and benefits besides simply offering a different sonic flavor.
+
+As of this writing, these are the compatible power tubes listed for Airmid. Native outputs are EL34/6CA7, KT77, 6L6, 6P3P, KT66, 5881, 350B, KT88, KT90, 6550, EL35, EL37, 6BG8, and 8417. With adapters: KT8C, TT21, EL156, EL6, EL12, EL38, EL39, EL50, EL51, 4699, 4654, 807/VT60a, and E130L.
+
+Finally, the rectifier. Because you need at least 160 mA of rectified DC current to supply both the output and input tubes, any rectifier with a max DC current rating lower than this rating is not suitable for Airmid (such as the 5Y3GT or the GZ32). Anything with less than 160 mA and there isn’t enough headroom to drive the input tube adequately.
+
+Currently approved rectifiers are the 5AR4, GZ34, 5V4G, 5U4G, VT-244, 5R4GY, GZ33, GZ37, U52, 422A, and 270B. With adapters you may use the 5Z3 and 5X4G.
+
+An important comment here. Keenan has taken great pains to design Airmid so it sounds good with the stock tubes (just as he did with Aegis). Airmid is not like some other tube amps where it is necessary to roll to achieve a satisfying sound. Given how much Airmid scales with tube rolling, however, I heartily recommend doing so. A convenient and inexpensive way to do this right away is to purchase the tube upgrade package from ZMF when ordering the amp.
+
+Of course, while rolling is a vast rabbit hole and not everyone's cup of tea, many audiophiles enjoy tube amps not only because they sound great but also because you can roll them. Despite relatively early days with Airmid, here you’ll find several tube recommendations. Of course, there is the obvious caveat here. This ranking is based on one user’s experience based on my HRTF, my chain, and my individual preferences. Needless to say, YMMV. All that said, I sincerely doubt you’ll be disappointed by any of the tubes listed below. You may not agree with how I’ve ranked them but they are all well worth trying.
+
+I’ve ranked each type from good to best. Please take note this doesn’t guarantee that choosing the “best” tube from each list will be automatically mean it's the best roll for you. Synergy between tubes 
+always
+ comes into play. You never know exactly how a combo might sound for you—with your sources and DAC, your headphones, and your individual HRTF and the music you enjoy—until to try it for yourself. If you do roll, keep an open mind, listen carefully with your gear to learn what you enjoy most. Given the crazy number of choices available in Airmid you’ll inevitably find the right roll just for you. The key is to have fun along the way. Besides Airmid is so well designed chances are any tube you try it with will at least sound good. That’s the joy of rolling an incredible amp like Airmid. If you buy Airmid, I hope you’ll find this brief tube overview useful to begin your tube rolling journey.
+Inputs
+For native input tubes
+: Tung Sol 6SN7 new production (stock), RCA 6SN7GTA black plates, Sylvania 6SN7GTB black plate w/copper support rods, Tung Sol 6SN7 bad boy, PSVANE Summit 6SN7 new production, RCA 5692 red base, Melz 1578 metal base.
+General advice
+: These are all very good choices. I found the Melz 1578 added the most refinement and expanded Airmid’s sense of space and airiness. However, every 6SN7 I sampled was enjoyable.
+For inputs with adapters
+: RCA 6CG7 black plate, Sylvania 6C4WA, Sylvania 6J5, Amperex Bugle Boy 6922, Sylvania 7N7 (various brands) tall bottle, Tantal (Melz) 6S5S, Brimar 6C5, Western Electric 396A, Soyz (Melz) 6S2S metal base, GEC L77, Mullard CV6 red print, GEC VR135, Svetlana 6S8S.
+General Advice
+: Surprisingly, I discovered I liked single triodes best of all with Airmid. I found many of them better—often much better—than a single 6SN7, even very well-regarded ones. With single triode pairs holography improved, soundstage deepened in all dimensions, and the overall sound was intoxicating, especially so within the 2C22/7193/CV6 family.
+Outputs
+For native output tubes
+: JJ EL34 new production (stock), Tung Sol 5881, Ei KT90 v2, Mullard EL37, Mullard EL34 XF2 Blackburn top O-getters, GEC KT66 grey glass brown base, GEC KT88 top getter.
+General Advice: 
+Not unsurprisingly, the best results are found with the costliest tubes. However, the stock JJ EL34 are quite good. Modest tubes like the 5881 are an inexpensive way to discover if you hear an improvement with rolling and want to pursue more expensive options. As you move up the ladder you’ll find improved clarity and detail. Some outputs like the KT90 and KT88 offer this in spades, while others like the EL37, EL34, and KT66 have great timbre and texture. Part of deciding which output tubes to pursue will depend in large measure upon what you value more: detail and resolution versus warmth and great tone.
+For outputs with adapters
+: Tung Sol 6AR6/6098, Bendix 6384/6889, Mullard EL50 mesh plates, Mullard EL38, Philips 4699 metal base, Cossor VT60A ceramic base, Philips 4654 metal base, GEC TT21
+General Advice
+: Here you have to factor in the price of the adapters, but—like the inputs—you’ll have more options if you invest in some. The 6AR6 is another excellent entry tube to roll with—I like it a little more than the 5881—and, like native outputs, you’ll find tubes which emphasize detail retrieval (EL38, 4699, 4654, TT21) at one end versus the warmer, more relaxing options (either Bendix and the 807/VT60A) at the other. No bad choices here though.
+High transconductance outputs
+: Toshiba 6BG8, Sylvania 8417, Philips Miniwatt E130L, Telefunken E130L (needs adapter).
+General Advice
+: If you want to lower Airmid’s output impedance for easier pairing with dynamics with lower impedance ratings—in my case, the Focal Elex or my Bokehs—or with planars, consider picking up one or more of these.
+Rectifiers
+For native rectifiers
+: JJ GZ34S (stock), RCA 5U4G brown base, Tung Sol 5U4G, Philips GZ34 fs2, National Union 5V4G, Mullard GZ33, RCA 5R4GY DD-getter, Brimar 5R4GY, Philips GZ34 Sittard brown base, FW4-500 triple mica striped black plates, Mullard GZ37, Mullard GZ34 fs1 fat base, Philips GZ34 rs1 metal base, GEC U52
+General Advice
+: Rectifier rolling is a little controversial. Some believe they don’t impact the sound of an amplifier all that much. Granted, the changes can be subtle. However, I’ve found rectifiers can dramatically alter a roll in a positive way. They are often the last missing piece which transforms a good roll into a great one. I’d recommend trying inexpensive versions of the 5U4G and 5R4GY types to see if you hear a difference. My advice is to first find an input/output combination you enjoy, then try a different rectifier with them to see if that improves the roll.
+For rectifiers with adapters
+: Sylvania 5X4G, Tung Sol 5Z3 top-getter
+General Advice
+: Both these types are definitely worth pursuing. For the price of an adapter you can find far less expensive options to try than many NOS 5U4G or GZ34 tubes.
+Suggested Tube Rolls
+
+In this section are several tube rolling examples I’ve enjoyed so far, from a nice starter set to a stratospheric one loaded with grails.
+Initial-tier
+: pair Sylvania 6C4WA (w/2:1 adapter), RCA 5R4GYB brown base, pair Tung Sol 5881
+
+A nice jump in clarity from the stock tubes, with more warmth and balanced treble.
+Next-tier
+: Philco 7N7 tall bottle (with adapter), National Union 5V4G, Tung Sol 6AR6/6098 pair (with adapters).
+
+Better low end, with that same Tung Sol warmth, and improved detail retrieval. Excellent mids.
+Middle-tier #1
+: Western Electric 396A (with adapter), RCA 5R4GY DD-getter, pair Bendix 6889 (w/anode cap adapters).
+
+A splendid roll. This one brings out the best features of Airmid. Great note decay and overall warmth. FYI: RCA 5R4GY is a real bargain and meshes well with a wide variety of outputs. It works well in both Airmid and Aegis and, best of all, is reasonably priced. Plenty of bang for the buck.
+Middle-tier #2
+:
+ pair Soyz/Melz 6S2S metal base (w/2:1 adapter), Mullard GZ37/CV378, pair Mullard  EL34 XF2 Blackburn top O-getters
+
+Another wonderful roll, with great timbre, liquidity, and texture which doesn’t sacrifice clarity at all. NOS EL34 tubes are special indeed in Airmid. This could easily be a roll one could enjoy for a long time. It has no weaknesses.
+High-tier
+: pair GEC VT135 black crimped plate (w/2:1 anode and grid cap adapter), Brimar GZ34 fs1 fat base, pair Philips Miniwatt 4654 solid plates metal base (w/anode cap adapters)
+
+Very dynamic, notable low end crunch while retaining a lovely high end, with nice balance through the FR, with even more spaciousness. Excellent note weight and lingering, almost haunting, level of decay. Vocals to die for.
+TOTL-tier
+: pair Svetlana 6S8S grey plate bottom saucer getter (w/2:1 anode and grid cap adapter), GEC U52, pair GEC KT88 top getter
+
+Ultimate in detail, clarity, timbre, texture, holography, with deep, articulate and accurate bass, luscious midrange, and gorgeous treble. Incredible soundstage depth. Exceptional note weight and astonishing decay. Utterly fatigue-free. As good as it gets. True end game roll.
+Summary
+
+Airmid is wonderfully responsive to rolling. This is one of its core strengths. Although the stock complement is good, this amp scales to extraordinary heights when rolled well. Even better, with all the various options available, you don’t have to spend a fortune either.
+Aegis Comparison
+​
+
+If Airmid is a specialist amp—designed for high impedance dynamic headphones—then Aegis is its powerful generalist cousin, able to tackle nearly any headphone with ease. Aegis offers a sense of effortless power, deep and satisfying low end, and a wide soundstage. This amp is a macro dynamic monster. It works with nearly any headphone. If you enjoy planars most—such as ZMF’s Ori 3, Tessidera, or Caldera—this is the way to go. By contrast, with high impedance dynamics, Airmid has a fatter, more satisfying bass, a sense of openness and space, lovely mids and exquisite decay. It is more refined and balanced with a wonderfully organic sound. If you’re mainly a 300 Ω dynamic fan, Airmid is nearly essential.
+
+What if you have a mix of dynamics and planars? That depends on how hard your planars are to drive. If they are difficult, Aegis is the best choice. If they are easier to drive, pick up an Imp, and Airmid becomes more than a viable option.
+
+One final note here. Both amps are ridiculously fun to roll, with all kinds of options to choose from. Each are dream amps for tube rolling addicts. What’s fascinating is Airmid is even more responsive to rolling than Aegis. Perhaps that’s because you’re “closer” to the tubes with Airmid because you don’t have an output transformer in the signal path.
+Preamp
+​
+Feedback is applied to both pre-outs, and the higher the feedback, the lower the output impedance, the lower the gain, and the lower the distortion. Because the load a preamp drives is typically a much easier one than a headphone, feedback can be applied to taste and damping ratios don’t really need to be considered. Because the feedback switch functions as gain, preamp output is +12.4 dB with no feedback, +7.8 dB with medium feedback, and +2.1 db with high feedback. As mentioned, either no feedback or medium feedback is recommended when using Airmid as a preamp because the gain at high feedback is quite low.
+
+Preamp output impedance measures  approximately 5K Ω which is higher than typical for a dedicated preamp. Per Keenan, with normal use this is not a significant issue. The main effect of the higher output impedance is resistive loading. Into a 20K Ω amp, like Aegis, the output level will be reduced by around 1.9 dB. At a typical 47k Ω that’s less than 1 dB. In practice, therefore, you just lose a little bit of volume when using the pre-amp functionality.
+
+I evaluated the Airmid with my Aegis and Schiit Audio Mjolnir 3 headphone amps. I did not use it with speakers. Stock tubes were used in Airmid and the TAD upgrade bundle in Aegis for the majority of my pre-amp testing. I wanted to get a feel for the sound and impact without employing a ton of elite glass. Honestly, having to roll so many nice tubes at once gave me more than a little trepidation. That said, it is very cool to do.
+
+What does pre-amping do the sound? Essentially it provides a subtle blend of the sonic features of each amp into one signature. Fascinatingly, this is dependent on how you do it. You get a different flavor when you max out the volume with one amp and control it with the other. For example, if you max out the volume on Airmid and control with Aegis, some of the elements of Airmid’s character—such as refinement, delicacy, and space—are imparted to the Aegis’s sound. Conversely, when doing the reverse and maxing out Aegis and controlling with Airmid, you add additional note weight and heft to Airmid’s character. I found I preferred the former (controlling volume with Aegis) best. YMMV, may vary of course.
+
+To get into specifics, the best results had the Airmid volume knob just short of max (~9) using medium feedback, with the Aegis between 3 and 4, with the Aegis impedance setting and jack best suited to the planar headphone I had chosen. For example, with Ori 3 that meant SE with low or medium impedance, with Tessidera SE on low, and Noire X XLR on low.
+
+Of note I discovered using no feedback in Airmid with the volume pot at full was a bit too hot and less linear. Again, YMMV. You’ll need to experiment some to find your personal preference with each headphone if you decide to pre-amp into Aegis (or another amp).
+
+Notably, I enjoyed pre-amping into my solid state Mjolnir 3 much more than I expected. It was far easier to locate that sweet spot than it was with the Airmid+Aegis combo. For those who might be curious, it was Airmid around 8½ and medium feedback, with MJ3 on high gain, SE, no FB. I really enjoyed Ori 3 with this setup.
+
+It’s very early days and I haven’t begun to roll tubes to any real extent yet when pre-amping. So this assessment is very preliminary. I did enough to determine you could use Airmid with the stock tubes while pre-amping and it sounds excellent, which might make those who are hesitant to roll so many tubes together more comfortable with the general idea. Regardless, this whole arena has 
+massive
+ potential, especially with the elevation in sound one would expect with tube rolling Aegis (and perhaps Airmid).
+
+One final comment, for the limited rolling I did while pre-amping, I did find tube changes in Aegis were far more impactful to the sound character changes than they were in Airmid. This is likely because of how I pre-amped, with Airmid’s volume pot near max, and volume control in Aegis. This method injects Airmid flavor into Aegis. I’m excited to see where this goes. Truthfully, I was so enamored with my Verité Open directly paired with Airmid, I didn’t spend a ton of time exploring pre-amping yet. More fun to come. For pre-amping enthusiasts who are fortunate enough to own both amps, this could be nirvana.
+Conclusion
+​
+
+Airmid is an exceptional OTL. If you own dynamic headphones with a 300 Ω impedance rating or greater, this amp will easily drive them to extraordinary heights. It was terrific with every one of my Sennheiser headphones. Not surprisingly, though, Airmid was sublime with my ZMF dynamics. If you own a ZMF planar, add an Imp, because Airmid works shockingly well with that duo.
+
+A final note of praise. In all my years in this hobby I’ve never encountered a better combination of headphone amplifier and headphone than the ZMF Airmid with the Verité Open. If you have any ZMF dynamic—such as Verité, Atrium or Auteur—with an Airmid in your chain I wager any one of them will sound better than you’ve ever heard them before. Truth is Airmid is simply otherworldly with any high Z dynamic headphone, yet has a special synergy with ZMF’s. The end result is perfect organic bliss.
+
+Splendid work by Keenan, ZMF, and Cayin. Airmid is as profound an achievement as the Aegis. If you’re searching for an OTL amp, this is the one.
+
+#### Review Photos
+
+![Gear Photo](../images/rev_zmf_airmid_otl_amplifier_photo_544354.jpg)
+
+![Gear Photo](../images/rev_zmf_airmid_otl_amplifier_photo_947025.jpg)
+
+![Gear Photo](../images/rev_zmf_airmid_otl_amplifier_photo_340257.jpg)
+
+![Gear Photo](../images/rev_zmf_airmid_otl_amplifier_photo_279013.jpg)
+
+![Gear Photo](../images/rev_zmf_airmid_otl_amplifier_photo_743826.jpg)
+
+![Gear Photo](../images/rev_zmf_airmid_otl_amplifier_photo_699731.jpg)
+

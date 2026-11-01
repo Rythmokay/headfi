@@ -1,0 +1,147 @@
+# Shanling Q2
+
+- **Category**: digital-audio-flac-mp3-etc-players-daps.277
+- **Overall Rating**: 4.00 star(s)
+- **Product URL**: [https://www.head-fi.org/showcase/shanling-q2.29545/](https://www.head-fi.org/showcase/shanling-q2.29545/)
+
+![Product Image](../images/rev_shanling_q2_thumb_759097.jpg)
+
+## Reviews & Audio Impressions
+
+### Review #1 by  (Rating: 4.50 star(s))
+
+I liked the original Shanling Q1, particularly its finish and the sense that someone had enjoyed designing it. After a long silence from the Q series, the Q2 brings back that interest in making a small player with some personality. This time, the inspiration is unmistakable: a compact body, a screen above a circular control, and a very clear nod to the classic iPod.
+
+That resemblance creates certain expectations, especially when your thumb lands on the touch wheel. The curious thing about the Q2 is that its stock software only partly fulfils them. It takes a community project, Q2-Pod, to make the hardware work the way many people will instinctively expect.
+
+There is a capable little DAP underneath all this: four Cirrus Logic CS43131 DAC chips, single-ended and balanced headphone outputs, Wi-Fi, Bluetooth, and Shanling’s non-Android MTouch platform. At the time of writing, Shanling lists it at $259. That puts some pressure on its design and everyday usability to justify the price, because compact players with good sound are hardly a new invention.
+
+Fortunately, the Q2 has quite a bit going for it beyond the familiar silhouette.
+Spoiler: 
+Video review
+Design and everyday use​
+Shanling has borrowed the right ideas without making the Q2 feel like a replica. The more rounded body and screen give it its own proportions, while the textured metal enclosure feels excellent in the hand. There is enough weight to suggest a properly made object, but it remains comfortable to carry in a pocket.
+
+This tactile quality is a substantial part of its appeal. The Q2 is one of those devices you find yourself picking up and turning over even when you have no particular reason to use it. For something intended to accompany you every day, that matters more than it might appear on a specification sheet.
+
+My biggest complaint is surprisingly mundane: there is no attachment point for a wrist strap. On a player this small, which practically invites you to operate it in one hand, that feels like an obvious omission. The glossy rear panel also collects fingerprints, although that bothers me much less.
+
+The packaging is simple and tasteful, with a charging cable and a silicone case included. I appreciate the case; basic protection should not always require another purchase.
+
+Both headphone outputs sit on the bottom: 3.5mm single-ended and 4.4mm balanced. USB-C handles charging, file transfer, USB DAC duties, and digital output to an external DAC. Local storage comes through a microSD card.
+
+The touchscreen has pleasing viewing angles and responds well to gestures. Scrolling still lacks the effortless fluidity of a good smartphone, but the interface feels reasonably quick and comfortable to use. Large menu items help, particularly on such a small display.
+
+Then there is the wheel. The circular surface is touch-sensitive rather than mechanically rotating, with physical buttons providing playback and navigation functions. On the stock firmware I tested, moving a finger around the wheel changes the volume. That is convenient when you are several levels deep in a menu and want an immediate adjustment, but it is also oddly restrictive. A player shaped like this practically teaches you to expect wheel-based menu navigation before you have even switched it on.
+
+Battery life is respectable. The quoted figure of up to 13.5 hours is achievable under favourable conditions, with wireless connections disabled, little screen use, low gain, and moderate listening levels. In more ordinary use, I would budget for roughly 10–12 hours. Q2-Pod also brings improvements to battery behaviour, giving another reason to look beyond the supplied software.
+Living with the stock firmware​
+The wheel limitation is frustrating partly because the rest of Shanling’s interface is fairly well considered.
+
+You can browse by album, artist, genre, or folder, use playlists and favourites, and find recently added or frequently played music. Search is available, and shortcuts to the home and playback screens reduce unnecessary backtracking. Folder browsing also accommodates attached USB storage.
+
+Playback settings cover the useful essentials: gain, digital filters, EQ, gapless playback, ReplayGain, channel balance, resume behaviour, and volume limits. The stock equalizer takes some patience because scrolling through its controls can turn into moving a slider, but it is usable once you adjust to it.
+
+The playback screen presents album artwork and track information clearly, with lyrics available when the relevant data is present. I also like the option to let the artwork occupy more of the screen. On a small player, a good album cover can do more for the experience than another row of tiny controls.
+
+Wireless features include SyncLink remote control, AirPlay, DLNA, and Wi-Fi file transfer. The latter is convenient for adding a couple of tracks, although I would still use a cable or card reader for a large library. Stock Tidal support is online-only; it should not be confused with the offline experience of the Android app.
+
+There are plenty of smaller conveniences, too, including sleep timers, lock-screen customization, and a car mode that follows USB power. Even the menu click sounds can be disabled, which should satisfy both the people who enjoy them and the people they drive mad.
+
+Taken on its own terms, the stock firmware is perfectly usable. Its main problem is that the most distinctive control on the device feels underused.
+Q2-Pod makes the design make sense​
+Q2-Pod, developed by DiamondBond
+, builds on Shanling’s firmware and changes the experience substantially. The most important improvement is full wheel navigation: browsing finally feels natural on this hardware, and the touchscreen becomes much less essential.
+
+Cover Flow adds the expected nostalgic pleasure, but it is also a genuinely enjoyable way to browse albums. Beyond that, the project expands library organization, adds ratings, improves lyrics handling, and offers extensive visual customization. Parametric EQ, dedicated audiobook and podcast functions, optional Spotify support, and an optional Rockbox installation give it considerable depth.
+
+What I like most is that you do not have to explore every setting to benefit. Basic browsing and playback already feel more coherent. The extra tools are there when you want them.
+
+Shanling has even 
+publicly acknowledged and tested the project
+, while making clear that it remains independently developed. Features will naturally depend on the version installed.
+
+For me, Q2-Pod is the strongest argument for paying the Q2’s premium. It connects the physical design with the way you actually use the player.
+Sound​
+The Q2’s sound is more restrained than its appearance might suggest. Shanling has gone for a broadly neutral presentation, with good technical ability and very little obvious coloration. There is a slight gentleness in the treble, but it does not turn the player into an overtly warm or dark source.
+
+What I appreciate is its balance between resolution and ease of listening. It communicates small differences without constantly pushing them forward. Your headphones and recordings remain the main influences on the result, which makes the Q2 a versatile source rather than a device that demands you build a system around its particular flavour.
+Bass​
+Bass extension is very good, with convincing control and a natural sense of texture. The Q2 can deliver rumble, impact, and weight when the recording calls for them, but it does not add a generous helping of its own.
+
+That distinction matters. A source can sound immediately impressive by making everything a little bigger down below, yet become less convincing as you move between different instruments and recordings. The Q2 handles elastic electronic bass and more nuanced acoustic textures with similar confidence, keeping the low end properly integrated with the rest of the music.
+Caravan Palace — “Maniac”
+ is a good example. The bass line has satisfying substance and movement, while the contrast with the midrange and treble remains clear. It sounds juicy because the recording is juicy; the player does not inflate it further.
+
+For a different perspective, 
+Deep Purple — “Pictures of Home”
+ shows how well the Q2 places bass guitar within a complete band performance. The instrument remains easy to follow, with its character intact, without becoming detached from everything happening around it.
+
+I nearly chose “Smoke on the Water” again, but even my test library deserves a little variety.
+Midrange​
+The midrange follows much the same philosophy. There is good low-level resolution and a clear sense of small changes in articulation, but the presentation remains cohesive. Details emerge as part of the performance instead of arriving as a separate demonstration of the player’s abilities.
+
+This also gives the Q2 a sensible relationship with recording quality. Imperfect material remains enjoyable, while better recordings still bring worthwhile improvements. You can spend time comparing masters and releases without turning every less-than-perfect album into a punishment. Whether that particular audiophile game produces a winner is another question.
+
+The player is equally comfortable with the intimacy of a vocal performance and music that needs more scale. The stage feels appreciably larger than average for this class, with convincing depth and positioning, although it does not reach into spectacularly expansive territory.
+Pantera — “This Love”
+ is useful here because it needs both control and emotional force. Excessive dryness can pull the performance apart, leaving you with individual sounds and very little of the reason you wanted to hear the song. The Q2 preserves the aggression while giving the guitar, vocals, and the rest of the band enough definition for their nuances to register.
+
+It does not manufacture extra ferocity, but it has no trouble conveying what is already present.
+Marillion — “Warm Wet Circles”
+ asks for a different kind of involvement. Fish’s voice is the centre of the performance, and the Q2 does a very good job with its expressive shifts and emotional density. The vocal remains articulate and full of character without being pushed artificially towards the listener.
+Treble​
+The treble is well extended for this class, with convincing attacks and decays and a good amount of harmonic information. Shanling has taken a little energy out of the presentation, enough to make it comfortable without making the upper frequencies seem absent or remote.
+
+I usually enjoy fairly energetic treble, so I am not automatically inclined to praise a softer approach. Here, however, the restraint is well judged. There is still enough presence to give instruments their shape and keep the sound open, while longer listening sessions remain easy.
+
+The main limitation is the sophistication of the layering. The Q2 resolves plenty of information, but the most delicate relationships between overtones and decays are not rendered with the refinement available from more ambitious players.
+Søren Bebe Trio — “Winx”
+ illustrates its strengths. This is quiet, nuanced jazz with plenty of subtle information reaching into the upper frequencies. The Q2 communicates that detail naturally, allowing the performance to remain relaxed without becoming vague.
+Hoff Ensemble — “Polarity”
+ exposes the limits more clearly. The challenge comes less from the number of instruments than from the quality of the recording and the fine relationships within it. The Q2 retains a convincing sense of naturalness, but it cannot fully reproduce the layering and delicate treble development that a more resolving source can reveal.
+
+That is a reasonable limitation at this price. The important thing is that the musical impression survives intact.
+Pairing​
+The balanced output gives the Q2 useful flexibility despite its size. It has enough drive for many portable headphones and reasonably efficient planar models, alongside the IEMs that will probably be its most common companions.
+
+I would not choose it specifically for a demanding, inefficient full-size headphone. There are limits to what this little player can do, and a suitable desktop amplifier remains the more sensible option for those loads.
+
+At the other end of the scale, the quiet background makes it a good partner for sensitive IEMs. Combined with the relatively neutral tuning, that makes matching straightforward: you can choose headphones for their own character without having to compensate for a strong tonal personality in the source.
+Comparisons and value​
+Two natural points of comparison are the 
+HiBy R3 Pro II
+ and 
+Hidizs AP80 Pro Max
+, both compact alternatives for listeners who want a dedicated player without Android.
+
+The HiBy offers a larger touchscreen and longer battery life when compared with the Q2 running stock firmware. Q2-Pod improves the Shanling’s position on battery life, although exact results will depend on settings and use.
+
+Sonically, I hear the HiBy as more substantial and punchy, with greater emphasis on weight and springiness. The Hidizs moves in the other direction, sounding brighter and more energetic, with more attention drawn to small details and fine contrasts.
+
+The Q2 sits comfortably between them. It offers enough body to avoid sounding lean, but it is less inclined than the HiBy to emphasize impact. It also gives detail room to breathe without the Hidizs’ more forward sense of energy. Which approach works best will depend on your headphones and preferences.
+
+The harder question concerns value. Some of the Q2’s price clearly goes towards the enclosure, finish, and physical experience. Buyers who prioritize screen size, app flexibility, or the greatest number of functions for their money may find a larger Android player more compelling.
+
+For me, though, compactness and pleasant controls are legitimate features. They affect whether I actually want to carry a player and reach for it throughout the day. A device can offer excellent value on paper and still spend most of its life at home.
+Final thoughts​
+The Q2 succeeds because its pleasures extend beyond its specification sheet. It feels good in the hand, fits easily into a pocket, and sounds balanced enough to work with a wide range of music and headphones. Its limitations are clear: the missing strap attachment is annoying, the stock wheel behaviour is a missed opportunity, and its treble refinement has an understandable ceiling.
+
+Q2-Pod makes a considerable difference to the overall judgement. With it, the wheel becomes the centre of an enjoyable browsing experience, and the hardware’s familiar shape finally feels fully justified.
+
+I would be less enthusiastic about the Q2 if I were judging it solely on the supplied interface. With the community firmware, it becomes a much more appealing daily companion. If you value a small, tactile music player and spend real time browsing your own library, the extra money buys something you are likely to appreciate every time you pick it up.
+
+#### Review Photos
+
+![Gear Photo](../images/rev_shanling_q2_photo_362397.jpg)
+
+![Gear Photo](../images/rev_shanling_q2_photo_775003.jpg)
+
+![Gear Photo](../images/rev_shanling_q2_photo_852528.jpg)
+
+![Gear Photo](../images/rev_shanling_q2_photo_898029.jpg)
+
+![Gear Photo](../images/rev_shanling_q2_photo_810056.jpg)
+
+![Gear Photo](../images/rev_shanling_q2_photo_609401.jpg)
+
